@@ -16,8 +16,8 @@ sections:
           - Ph.D. Students
           - M.S. Students
           - Undergraduate Students
+          - Visiting Scholars
           - Administrators
-          - Visitors
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
