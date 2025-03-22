@@ -22,11 +22,12 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have had my own named patent.
+bio: Inventing AI methods using mathematics
 
 interests:
-  - Algebraic Geometry
+  - Geometric methods
   - Neural Network Optimization
+  - AI applications
 
 education:
   courses:
@@ -62,9 +63,9 @@ social:
     link: https://github.com/invigorator96
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: cv/jaeheun_CV_250318.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'wodsos@korea.ac.kr'
@@ -75,6 +76,8 @@ user_groups:
   - Ph.D. Students
 ---
 
-Jaeheun Jung is a Ph.D. candidate.
+I am a Ph.D cantidate in Department of Mathematics, Korea University. As a senior member of AIMLK, I managed multiple projects on NLP, computer vision, signal processing, etc. For my personal research, I'm working on training algorithm called bypassing, and related applications including structured pruning for neural networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I like to create something novel and useful, and thus I characterize myself an inventor. Before entering the graduate school, I was working on start-up projects with my invention, the flat light collecting device and blind clutches. After, I started to invent mathematical proofs as a graduate student, major in algebraic geometry for the first two years and finally joined to AIMLK as a starting member to make AI-methods with my mathematical skills.
+
+As a mathematics majored researcher, I am looking for methods with rigorous mathematical explanations for various subdomains of AI. Especially geometric methods and reparameterization methods are in my interest. 

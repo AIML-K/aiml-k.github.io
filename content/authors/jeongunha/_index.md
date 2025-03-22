@@ -29,7 +29,6 @@ interests:
   - Generative Model
   - Neural Operator
 
-
 education:
   courses:
     # - course: PhD in Artificial Intelligence

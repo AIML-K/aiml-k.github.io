@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:@korea.ac.kr '
+    link: 'mailto:baeshstar@korea.ac.kr'
   - icon: github
     icon_pack: fab
     link: https://github.com/Ricepunchb
@@ -54,7 +54,7 @@ social:
     link: https://www.linkedin.com/in/suhyun-bae-869043286
   - icon: cv
     icon_pack: ai
-    link: cv/CV_suhyun_2411.pdf
+    link: cv/CV_SuHyunBae_2503.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -81,6 +81,36 @@ user_groups:
 <!-- 짧은 자기소개 -->
 Hi, my name is SuHyun Bae. I'm Master student in Mathematical Data Science at Korea University. Also a researcher of AIML@K.
 <!-- 연구분야/주제 관심사 소개 -->
-My research interests are mainly in NLP and utilizing Language models.
+My research interests are mainly in NLP and utilizing Language Models.
 <!-- 그 외의 것/trivia -->
 I have been interested in creating friendly AI since I was young. So I decided to study mathematics to understand the mathematical principles underlying AI. My goal is to analyze and design models rigorously.
+
+### Research Experience
+
+- 2023.07 - 2023.12 | **AI Grand Challenge 2023**    
+Generated and refined a dataset using `GPT 3.5` via `openai-API` to fine-tune a model for answering multi-answer questions. Our lab won 7th place
+
+- 2024.02 - 03 | **Practicing RAG**   
+  Conducted research on Retrieval-Augmented Generation (RAG) technology and applied it to implement a model for the DACON competition, "한솔데코 도배하자 Q&A"
+
+- 2024.03 - 06 | **KCC 2024 and Hallucination**   
+  Classified hallucination types in QA task into 5 categories and identified that the natural language evaluation metrics BLEU, METEOR, and ROUGE each excel at detecting certain types of hallucinations while struggling with others. This was published at KCC 2024
+
+- 2024.07 - 2025.01 | **Internship at SK Magic**   
+  Product planning and development at SK magic, focusing on algorithm development for new product and researching on-device LLM ecosystems and data infrastructure for product integration
+
+- 2025.03 - PRESENT | **Grokking and Hallucination**   
+  Interested in the phenomenon of grokking and researching its potential role in reducing hallucinations
+  
+
+### Research Focus
+
+My research focus is on understanding the phenomenon of grokking in language models and progressively expanding its application.
+First, grokking has primarily been observed in domains such as modular arithmetic and group operations. I aim to extend this to logical structures that use natural language, such as syllogisms, to determine whether grokking can occur in these contexts.
+Second, current studies on grokking have been largely limited to simple transformer-based models. I plan to investigate whether grokking can also be observed in small-scale language models (sLLMs) such as `LLaMA 3.2 1B` and `DeepSeek 1.78B`.
+
+
+### Research Goal
+
+My ultimate research goal is to verify that Language Models can generalize certain computations and logical structures through the phenomenon of grokking. 
+Furthermore, I aim to demonstrate that this understanding can significantly reduce hallucination when Language Models generate answers using reasoning chains such as Chain of Thought (CoT) or induction.

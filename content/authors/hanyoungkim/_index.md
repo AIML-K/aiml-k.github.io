@@ -22,11 +22,11 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm the last M.S. in Financial Engineering graduate managed from Econ department!
+bio: I'm the last M.S. in Financial Engineering graduate managed from Econ department! You can easily find my name on most Korean keyboards :)
 
 interests:
   - Financial Engineering
-  - NLP in Finance
+  - AI in Finance
 
 education:
   courses:
@@ -36,9 +36,9 @@ education:
     - course: M.S. in Financial Engineering
       institution: Korea University
       year: 2023
-    - course: B.A. in Biochemistry
-      institution: Columbia University
-      year: 2007
+    - course: B.A. in Economics / Applied Mathematics
+      institution: Pukyong National University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -75,6 +75,11 @@ user_groups:
   - Ph.D. Students
 ---
 
-Hanyoung Kim is a Ph.D. student.
+I am a researcher specializing in Deep Learning (DL) in Finance and Natural Language Processing (NLP) Models.
+My interests span various aspects of financial NLP (related to my M.S. thesis), and I keep an open mind toward different applications. On the NLP side, I focus on understanding how models learn and process natural language, particularly exploring why Large Language Models (LLMs) perform so well. Additionally, I have a growing interest in small LLMs (sLLMs) and the diverse empirical techniques used to apply LLMs across various tasks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I initially entered this research field with an interest in financial market analysis and prediction, which I developed during my economics studies. Expecting AI to serve as a powerful tool in this domain, I took my first steps into the field. However, as I delved deeper, my fascination with AI itself grew, eventually leading me to shift my focus entirely toward AI research. Interestingly, the mathematics I studied in preparation for financial engineering unexpectedly bridged the gap between finance and AI, making the transition feel even more natural.
+
+With this foundation, I approach research with an open and inquisitive mindset, staying actively engaged in ongoing discussions and projects in the lab while continuously seeking new ideas and perspectives to explore.
+
+I have always valued the principle of "cold head, warm heart" and strive to embody it in my daily work. I make it a priority to approach research with dedication and clarity while fostering a warm and collaborative environment. Ensuring smooth coordination among team members and minimizing disruptions in collective workflows is a key value I uphold in my research approach.
