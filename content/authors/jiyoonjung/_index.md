@@ -49,9 +49,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/JiyoonJ
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
+  - icon: cv
+    icon_pack: ai
+    link: cv/CV_JiyoonJung.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: '1626jy@gmail.com'
