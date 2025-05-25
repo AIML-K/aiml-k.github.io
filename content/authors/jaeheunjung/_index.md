@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: cv/jaeheun_CV_250318.pdf
+    link: cv/CV_JaeheunJung_250403.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'wodsos@korea.ac.kr'
