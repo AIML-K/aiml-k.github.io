@@ -7,7 +7,7 @@ authors:
 - Jongwon Han
 - Seungryong Kim
 - admin
-date: '2024-07-25'
+date: 2024-07-25
 publishDate: '2024-07-25T01:23:45.678901Z'
 publication_types:
 - article-journal

@@ -4,7 +4,7 @@ authors:
 - taehuncha
 - admin
 
-date: '2025-02'
+date: 2025-02-01
 publishDate: '2024-12-10T00:00:00.000001Z'
 publication_types:
 - paper-conference

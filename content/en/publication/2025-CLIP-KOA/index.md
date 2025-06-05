@@ -3,11 +3,11 @@ title: "CLIP-KOA: Enhancing Knee Osteoarthritis Diagnosis with Multi-Modal Learn
 authors:
 - yejinjeong
 - admin
-date: "2025-04-30T00:00:00Z"
+date: 2025-04-30
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
