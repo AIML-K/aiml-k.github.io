@@ -63,7 +63,7 @@ ko:
         weight: 70
       - name: 연락처
         url: contact
-        weight: 800
+        weight: 80
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
