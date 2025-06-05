@@ -27,9 +27,12 @@ en:
       - name: Publications
         url: publication
         weight: 60
+      - name: Research
+        url: research
+        weight: 70
       - name: Contact
         url: contact
-        weight: 70
+        weight: 80
 
 ko:
   languageCode: ko-kr
@@ -55,9 +58,12 @@ ko:
       - name: 논문
         url: publication
         weight: 60
+      - name: 연구
+        url: research
+        weight: 70
       - name: 연락처
         url: contact
-        weight: 70
+        weight: 800
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
