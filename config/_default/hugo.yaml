@@ -19,9 +19,12 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+googleAnalytics: "dummy" # Replace with your Google Analytics ID
+
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination: 
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
