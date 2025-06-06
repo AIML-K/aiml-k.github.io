@@ -1,11 +1,6 @@
 ---
 title: Research
-
-# Listing view
-view: compact
-
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+type: book
 ---
+
+you can explore a overview of the **research projects** conducted by our lab
