@@ -1,6 +1,7 @@
 ---
 title: Research
 type: book
+date: 2025-06-01
 ---
 
-you can explore a overview of the **research projects** conducted by our lab
+you can explore a overview of the **Research & Projects** conducted by our lab
