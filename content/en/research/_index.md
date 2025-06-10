@@ -6,7 +6,7 @@ toc: false
 ---
 
 <p style="text-align:center;">
-you can explore a overview of the Research & Projects conducted by our lab
+you can explore a overview of the {{< hl >}}Research & Projects{{< /hl >}} conducted by our lab
 </p>
 
 <br>
