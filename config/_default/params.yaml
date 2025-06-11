@@ -32,8 +32,6 @@ marketing:
   verification:
     google: ''
     baidu: ''
-  GoogleAnalytics: "" 
-
 
 # Site header
 
@@ -61,7 +59,7 @@ footer:
 # Localization
 
 locale:
-  date_format: '2006-01-02'
+  date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -120,7 +118,7 @@ extensions:
 # Citation style
 
 publications:
-  date_format: 2025-06-01
+  date_format: January 2006
   citation_style: apa
 
 # what would happen if I do this?
