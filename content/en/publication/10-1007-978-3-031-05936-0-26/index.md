@@ -3,7 +3,7 @@ title: Online Learning with Regularized Knowledge Gradients
 authors:
 - admin
 - Warren B. Powell
-date: '2022-05-18'
+date: 2022-05-18
 publishDate: '2022-05-22T13:56:30.277137Z'
 publication_types:
 - paper-conference
