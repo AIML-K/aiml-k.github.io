@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:TODO'
+    link: 'mailto:seoyoon@naver.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/id
