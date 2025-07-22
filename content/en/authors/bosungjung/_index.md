@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '2018160026@korea.ac.kr '
+    link: 'mailto:2018160026@korea.ac.kr'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -57,7 +57,7 @@ social:
     link: https://github.com/sjki928
   - icon: cv
     icon_pack: ai
-    link: cv/CV_BosungJung_20250110.pdf
+    link: cv/CV_BosungJung_20250723.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,13 +71,12 @@ user_groups:
   - M.S. Students
 ---
 
-<!-- 짧은 자기소개 -->
-I am an M.S Student in Department of Mathematics, Korea University. Additionally, I completed my degree at the Department of Mathematics at K.U., as well as my education at K.U. High School and K.U. Middle School.
+I am an M.S. student in the Department of Mathematics at Korea University, specializing in Mathematical Data Science. My academic path has been deeply rooted in Korea University, spanning from middle and high school to undergraduate and graduate study.
 
-<!-- 연구분야/주제 관심사 소개 -->
-My research interests lie in enhancing Small Language Models for mathematical problem-solving and developing a Bayesian optimization algorithm capable of effectively handling mixed spaces. Additionally, I have interest in analyzing optimizers using fractional derivatives, applying them in Gradient Descent and Neural Network. However, I don't want to restrict my interest to just some subjects.
+My research focuses on machine unlearning, Bayesian optimization in mixed and constrained spaces, and enhancing small language models (SLMs) for mathematical reasoning. In recent work, I proposed an unlearning algorithm based on One-Point-Contraction (OPC), which succeeds in unlearning deep feature representations—a challenge that many existing methods fail to address.
 
-<!-- 그 외의 것/trivia -->
-In 2022, I augmented Raman spectra using VAE and GAN. In 2023, I developed an algorithm to hedge IRS products. In 2024, I am participating in a competition to enhance the mathematical reasoning capabilities of artificial intelligence.
+I have also developed Bayesian optimization algorithms capable of handling multi-objective, mixed-variable, and constraint settings, applying them in industrial collaboration projects such as with KOLON. Additionally, I’ve participated in several competition-driven research efforts, including enhancing LLMs for mathematical problem-solving in the AIMO competition and building AutoML pipelines for time-series forecasting.
 
-Additionally, I recently worked as an intern at Nara-Information Co., Ltd. for 4 months, where I participated in training small language models (SLMs) and deploying them as services for institutions, gaining insight into the potential of SLMs.
+In 2024, I interned at Nara-Information Co., Ltd., where I contributed to training and fine-tuning SLMs (e.g., LLaMA 3.2, Gemma2) using PEFT techniques such as QLoRA and Rank-Stabilized LoRA. I also participated in the web crawling pipeline for dataset construction and contributed to deploying SLMs as chatbot services for public institutions. Furthermore, I implemented the document preprocessing pipeline for GraphRAG, including converting unstructured documents into GraphDB format to enable structured retrieval.
+
+While I maintain a strong focus on these areas, I remain open to a broader range of challenges that bridge mathematics, learning algorithms, and practical deployment.
