@@ -8,3 +8,8 @@ assets/jsconfig.json
 
 # .DS_Store
 **/.DS_Store
+
+# Render Mode
+layouts/
+.hugo_build.lock
+go.sum

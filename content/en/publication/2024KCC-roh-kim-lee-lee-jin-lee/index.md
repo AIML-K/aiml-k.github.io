@@ -11,8 +11,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: '2023-06'
-publishDate: '2024-05-28T00:00:00.000001Z'
+date: 2023-06-01
+publishDate: 2024-05-28T00:00:00.000001Z
 publication_types:
 - paper-conference
 publication: '*Proceedings of 2024 Korea Computer Congress*'

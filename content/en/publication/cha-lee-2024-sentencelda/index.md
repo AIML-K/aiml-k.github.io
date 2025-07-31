@@ -4,7 +4,7 @@ title: 'SentenceLDA: Discriminative and Robust Document Representation with Sent
 authors:
 - taehuncha
 - admin
-date: '2024-03-01'
+date: 2024-03-01
 publishDate: '2024-03-24T05:32:51.489481Z'
 publication_types:
 - paper-conference
