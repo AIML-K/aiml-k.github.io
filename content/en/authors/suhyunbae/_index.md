@@ -22,7 +22,7 @@ bio: The cake is not a lie!
 
 interests:
 - LLM & NLP
-- Agent & LAM
+- Agentic AI
 - Model Architecture
 
 
@@ -54,7 +54,7 @@ social:
     link: https://www.linkedin.com/in/suhyun-bae-869043286
   - icon: cv
     icon_pack: ai
-    link: cv/CV_SuHyunBae_2503.pdf
+    link: cv/CV_SuHyunBae_Eng_2508.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -79,38 +79,35 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-Hi, my name is SuHyun Bae. I'm Master student in Mathematical Data Science at Korea University. Also a researcher of AIML@K.
+A researcher who connects the theoretical principles of mathematics with the practical applications of AI models.
 <!-- 연구분야/주제 관심사 소개 -->
-My research interests are mainly in NLP and utilizing Language Models.
+A researcher with a passion for using mathematics to enhance AI model's reasoning capabilities and reliability, while also exploring novel and efficient architectures.
 <!-- 그 외의 것/trivia -->
-I have been interested in creating friendly AI since I was young. So I decided to study mathematics to understand the mathematical principles underlying AI. My goal is to analyze and design models rigorously.
+I often enjoy solving diverse algorithmic problems through coding challenges and find satisfaction in simplifying complex issues.
 
 ### Research Experience
 
 - 2023.07 - 2023.12 | **AI Grand Challenge 2023**    
-Generated and refined a dataset using `GPT 3.5` via `openai-API` to fine-tune a model for answering multi-answer questions. Our lab won 7th place
+  Utilized the openai-API with GPT-3.5 to generate and refine a dataset for fine-tuning a model on multi-answer questions, leading our team to a 7th place finish.
 
 - 2024.02 - 03 | **Practicing RAG**   
-  Conducted research on Retrieval-Augmented Generation (RAG) technology and applied it to implement a model for the DACON competition, "한솔데코 도배하자 Q&A"
+  Researched Retrieval-Augmented Generation (RAG) and implemented a model for the DACON competition, "HansolDeco Wallpaper Q&A."
 
 - 2024.03 - 06 | **KCC 2024 and Hallucination**   
-  Classified hallucination types in QA task into 5 categories and identified that the natural language evaluation metrics BLEU, METEOR, and ROUGE each excel at detecting certain types of hallucinations while struggling with others. This was published at KCC 2024
+  Classified hallucination types in QA tasks into five categories. My research, published at KCC 2024, identified that natural language evaluation metrics like BLEU, METEOR, and ROUGE have distinct strengths and weaknesses in detecting specific types of hallucinations.
 
 - 2024.07 - 2025.01 | **Internship at SK Magic**   
-  Product planning and development at SK magic, focusing on algorithm development for new product and researching on-device LLM ecosystems and data infrastructure for product integration
-
-- 2025.03 - PRESENT | **Grokking and Hallucination**   
-  Interested in the phenomenon of grokking and researching its potential role in reducing hallucinations
+  As a data scientist intern, I focused on product planning and development, researching on-device LLM ecosystems and data infrastructure for new products while developing corresponding algorithms.
+  
+- 2025.03 - PRESENT | **AI and Math**   
+  Currently designing methods for AI to understand and verify mathematical problems through formalized languages and algebraic structures.
   
 
 ### Research Focus
 
-My research focus is on understanding the phenomenon of grokking in language models and progressively expanding its application.
-First, grokking has primarily been observed in domains such as modular arithmetic and group operations. I aim to extend this to logical structures that use natural language, such as syllogisms, to determine whether grokking can occur in these contexts.
-Second, current studies on grokking have been largely limited to simple transformer-based models. I plan to investigate whether grokking can also be observed in small-scale language models (sLLMs) such as `LLaMA 3.2 1B` and `DeepSeek 1.78B`.
+My research centers on leveraging mathematical theory to enhance the reliability and reduce hallucination in AI models. I'm particularly focused on addressing the limitations of existing tokenizers' embedding spaces through an algebraic approach. Specifically, I am designing a novel numerical token embedding space that preserves algebraic meaning by utilizing algebraic structures such as the Adele ring. My goal is to fundamentally improve model architectures with mathematical rigor, enabling AI to reason more deeply and logically about data.
 
 
 ### Research Goal
 
-My ultimate research goal is to verify that Language Models can generalize certain computations and logical structures through the phenomenon of grokking. 
-Furthermore, I aim to demonstrate that this understanding can significantly reduce hallucination when Language Models generate answers using reasoning chains such as Chain of Thought (CoT) or induction.
+My ultimate goal is to pioneer AI models capable of rigorous mathematical reasoning, which can fundamentally advance the field of artificial intelligence itself. While current LLMs demonstrate remarkable linguistic abilities, they often lack the foundational logic required for mathematical tasks. By implementing a new embedding space built on algebraic principles, I aim to create AI systems that move beyond mere pattern recognition and engage in logical, systematic thinking. This research is not just about solving math problems; it's about building a new class of AI that can perform verifiable and reliable reasoning. This will pave the way for highly trustworthy AI applications in critical domains, setting a new standard for how we design and evaluate intelligent systems.
