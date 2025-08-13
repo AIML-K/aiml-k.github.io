@@ -5,11 +5,11 @@ authors:
 - bosungjung
 - suhyunbae
 - admin
-date: "2025-07-10T00:00:00Z"
+date: "2025-07-18T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-19T00:00:00Z"
+publishDate: "2025-07-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,10 +17,10 @@ publishDate: "2025-05-19T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "*[ICCV 2025 Workshop - 2nd Workshop and Challenge on Unlearning and Model Editing (U&ME)](https://sites.google.com/view/u-and-me-workshop/)*"
+publication_short: "In *ICCV 2025 U&ME workshop*"
 
-abstract: 'Machine unlearning seeks to remove the influence of particular data or class from trained models to meet privacy, legal, or ethical requirements. Existing unlearning methods tend to forget shallowly: phenomenon of an unlearned model pretend to forget by adjusting only the model response, while its internal representations retain information sufficiently to restore the forgotten data or behavior. We empirically confirm the widespread shallowness by reverting the forgetting effect of various unlearning methods via training-free performance recovery attack and gradient-inversion-based data reconstruction attack. To address this vulnerability fundamentally, we define a theoretical criterion of ``deep forgetting'' based on one-point-contraction of feature representations of data to forget. We also propose an efficient approximation algorithm, and use it to construct a novel general-purpose unlearning algorithm: One-Point-Contraction (OPC). Empirical evaluations on image classification unlearning benchmarks show that OPC achieves not only effective unlearning performance but also superior resilience against both performance recovery attack and gradient-inversion attack. The distinctive unlearning performance of OPC arises from the deep feature forgetting enforced by its theoretical foundation, and recaps the need for improved robustness of machine unlearning methods.'
+abstract: 'Machine unlearning seeks to remove the influence of particular data or class from trained models to meet privacy, legal, or ethical requirements. Existing unlearning methods tend to forget shallowly: phenomenon of an unlearned model pretend to forget by adjusting only the model response, while its internal representations retain information sufficiently to restore the forgotten data or behavior. We empirically confirm the widespread shallowness by reverting the forgetting effect of various unlearning methods via training-free performance recovery attack and gradient-inversion-based data reconstruction attack. To address this vulnerability fundamentally, we define a theoretical criterion of "deep forgetting'' based on one-point-contraction of feature representations of data to forget. We also propose an efficient approximation algorithm, and use it to construct a novel general-purpose unlearning algorithm: One-Point-Contraction (OPC). Empirical evaluations on image classification unlearning benchmarks show that OPC achieves not only effective unlearning performance but also superior resilience against both performance recovery attack and gradient-inversion attack. The distinctive unlearning performance of OPC arises from the deep feature forgetting enforced by its theoretical foundation, and recaps the need for improved robustness of machine unlearning methods.'
 
 # Summary. An optional shortened abstract.
 summary: 'We identify a major weakness in existing machine unlearning methods—namely, their tendency to forget only at the output level while retaining internal representations that allow for data recovery. To address this, we introduce a new theoretical framework called "deep forgetting" based on one-point contraction and propose a practical algorithm, One-Point-Contraction (OPC), which shows strong resilience against known attacks and outperforms existing methods on unlearning benchmarks.'
