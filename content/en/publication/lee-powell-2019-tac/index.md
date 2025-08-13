@@ -3,7 +3,7 @@ title: Bias-Corrected Q-Learning With Multistate Extension
 authors:
 - admin
 - Warren B. Powell
-date: '2019-10-01'
+date: 2019-10-01
 publishDate: '2019-10-30T14:36:24.507368Z'
 publication_types:
 - article-journal

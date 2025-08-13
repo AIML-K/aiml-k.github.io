@@ -8,7 +8,7 @@ authors:
 - bosungjung
 - admin
 
-date: '2025-05-01'
+date: 2025-05-01
 publishDate: '2025-05-25T00:00:00.000001Z'
 publication_types:
 - paper-conference
