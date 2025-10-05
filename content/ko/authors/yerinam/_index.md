@@ -30,7 +30,7 @@ education:
     - course: Dual Degree - B.Eng. in Electronics Engineering & B.S. in Mathematics
       institution: Ewha Womans University
       year: 2019
-	  
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
