@@ -10,7 +10,7 @@ last_name: Lee
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. in Mathematics
 
 # Organizations/Affiliations
 organizations:
