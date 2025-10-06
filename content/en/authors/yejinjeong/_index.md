@@ -29,7 +29,7 @@ education:
     - course: M.S. in Mathematical Data Science
       institution: Korea University
       year: 2025
-    - course: B.A. in Mathematics
+    - course: B.S. in Mathematics
       institution: Kangwon National University
       year: 2022
 
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Alumni
 ---
 
 <!-- 짧은 자기소개 -->
