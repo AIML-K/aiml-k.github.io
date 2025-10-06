@@ -10,7 +10,7 @@ last_name: Jeong
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. in Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -73,6 +73,6 @@ user_groups:
 I’m a master’s student in Mathematical Data Science at Korea University, with a strong interest in applying computer vision techniques to practical, real-world challenges. My work focuses on developing models that can effectively interpret and utilize visual information in both industrial and medical contexts.
 
 I’ve contributed to a range of projects, from vision-language modeling and image-based prediction to recommendation systems. These experiences deepened my interest in multimodal learning and robust model design. 
-During my internship at the medical AI company CONNECTEVE, I worked on developing an AI-powered spinal diagnostic tool and contributed to a research publication based on the project. This experience gave me valuable insight into the practical challenges of applying AI in clinical settings, from model development to validation and real-world deployment.
+During my internship at the [medical AI company CONNECTEVE](https://connecteve.com), I worked on developing an AI-powered spinal diagnostic tool and contributed to a research publication based on the project. This experience gave me valuable insight into the practical challenges of applying AI in clinical settings, from model development to validation and real-world deployment.
 
 I’m especially interested in building AI systems that aren’t just accurate, but also intuitive and genuinely useful in practice. I enjoy thinking about how models can support meaningful decisions—whether in healthcare, industry, or wherever they can make a positive impact.
