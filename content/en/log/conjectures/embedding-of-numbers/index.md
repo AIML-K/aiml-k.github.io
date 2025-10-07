@@ -38,6 +38,43 @@ Considering LLMs' pure form (nonlinear token-embedder whose parameters minimize 
 - Limited scalability: They can generalize to familiar numbers, but not to rare ones (e.g. large or unseen numbers).
 - Weak numeric reasoning: Counting, comparison, and multi-step calculations are error-prone (without external tools).
 
+
+## Conjecture 1
+
+> It is possible to construct embedding in which the numerical nature of numbers are "preserved", up to some finite precision.
+
+Consider how real numbers are represented approximately in computers; also consider that some numbers require infinitely many digits to write them down directly. 
+
+Defining "preserved" will drive a series of subsequent research. 
+
+### Variant 1a
+
+> There is such an embedding that does not require training (or "learning" per se). 
+
+cf. p-adic numbers (how to truncate this?)
+
+### Variant 1b
+
+> Such embedding allows efficient arithmetics, and if possible, controllable approximations of exact arithmetics.
+
+cf. Hansel's p-adic arithmetics. https://dx.doi.org/10.1137%2F0208011
+
+
+## Conjecture 2
+
+> With embedding that preserves the nature of numbers, LLMs (or, more fundamentally, stacked transformers) will have better performance in tasks involving numbers.
+
+### Variant 2a
+
+> With such embedding, learning will be faster.
+
+### Variant 2b
+
+> With such embedding, generalization will be more prevalent.
+
+
+
+
 <!-- 글쓰기 관련 참조: https://bootstrap.hugoblox.com/content/writing-markdown-latex/ 
 
 마크다운인데, 뭔가 더 들어가있다.
