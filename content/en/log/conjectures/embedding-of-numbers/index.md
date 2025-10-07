@@ -5,6 +5,10 @@ date: 2025-09-30
 type: book
 ---
 
+Why LLMs make silly math mistakes? This may be the biggest cause.
+
+<!--more-->
+
 ## Introduction
 
 Large Language Models (LLMs) treat numbers as text, not as mathematical values. 
