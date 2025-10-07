@@ -7,6 +7,7 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: "AIML@K AI + Math Lab at Korea University" # Website name
   menu:
     main:
       # - name: Tour
@@ -34,7 +35,7 @@ en:
 ko:
   languageCode: ko-kr
   contentDir: content/ko
-  title: AIML@K # Website name
+  title: "AIML@K 고려대학교 수학과 인공지능수학 연구실" # Website name
   menu:
     main:
       # - name: Tour
