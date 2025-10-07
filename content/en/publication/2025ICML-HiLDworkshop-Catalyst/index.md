@@ -49,7 +49,8 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "3rd Workshop on High-dimensional Learning Dynamics (HiLD): **[Website](https://sites.google.com/view/hidimlearning/home)**"
+  caption: "Catalyst pruning induces robust bifurcation - to-prune or not-to-prune"
+  # caption: "3rd Workshop on High-dimensional Learning Dynamics (HiLD): **[Website](https://sites.google.com/view/hidimlearning/home)**"
   focal_point: ""
   preview_only: false
 
