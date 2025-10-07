@@ -18,15 +18,14 @@ publication_types: ["paper-conference"]
 publication: "*[NeurIPS 2025 Workshop - OPT: Optimization for Machine Learning](https://opt-ml.org/)*"
 publication_short: "In *NeurIPS 2025 OPT Workshop*"
 
-abstract: "
+abstract: |
   Feature learning is central to the success of neural networks but remains poorly understood.
-  Recent work proposed the Neural Feature Ansatz, which highlights alignment between learned features and $\nabla_x f$, but does not explicitly explain why and how feature learning dynamics occur.
+  Recent work proposed the Neural Feature Ansatz, which highlights alignment between learned features and $\\nabla\\_x f$, but does not explicitly explain why and how feature learning dynamics occur.
   To address this, we introduce a novel concept, **virtual update**, a stochastic gradient descent (SGD) step applied to inputs and hidden states rather than parameters, i.e., $x - \\gamma \\nabla\\_x \\mathcal{L}$ and $h - \\gamma \\nabla\\_h \\mathcal{L}$.
   We theoretically show that SGD aligns network weights with the covariance structure of the virtual update.
   This does not result in disagreement with an actual update, as the actually updated input does not deviate far from the virtually updated input.
   Building on this insight, we propose the **virtual covariance learning** algorithm, which directly obtains the weight matrix that achieves the desired covariance structure.
   This algorithm efficiently learns effective weights within one or two epochs--whereas SGD requires $10$–$20$ epochs--with low variance and no overfitting.
-  "
 
 # Summary. An optional shortened abstract.
 summary: |
