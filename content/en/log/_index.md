@@ -7,7 +7,7 @@ sections:
     content:
       title: "Recent Logs"
       subtitle: "Peeking into recent AIML@K logs"
-      # text: "."
+      text: "."
       filters:
         - "log"
         # - "featured"
@@ -15,8 +15,6 @@ sections:
     design:
       view: "card"
       columns: "3"
-
-# sections:
 
 ---
 
