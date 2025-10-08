@@ -72,6 +72,17 @@ sections:
       view: compact
       columns: '1'
 
+  - block: logos
+    content:
+      title: Research Partners
+      # subtitle: Section Subtitle
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: logos
+    design:
+      columns: '1'  
+      padding: ['20px', '0', '20px', '0']
+
+
   - block: markdown
     content:
       title:
