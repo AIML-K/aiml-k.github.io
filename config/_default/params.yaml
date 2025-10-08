@@ -18,10 +18,12 @@ appearance:
 
 marketing:
   seo:
-    site_type: ResearchOrganization
+    site_type: Person
+    # site_type: ResearchOrganization
     local_business_type: ''
-    org_name: 'Artificial Intelligence and Mathematics Lab at Korea University (AIML@K) 고려대학교 수학과 인공지능수학 연구실'
-    description: 'Home for those who bridges AI and math, explores the frontiers of them, and sharing the fruits with our society'
+    org_name: "Donghun Lee 이동헌 AIMLK"
+    description: "Math, AI, and Research by Donghun Lee at Korea University"
+    # description: 'Home for those who bridges AI and math, explores the frontiers of them, and sharing the fruits with our society'
     # twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -30,7 +32,7 @@ marketing:
     microsoft_clarity: ''
     pirsch: 'sx4npXpRw5ozuIifDYUnleSMDesvw2g8'
   verification:
-    google: ''
+    google: 'THRaeCf0FG7uRKsIMjEnA7s-I7Ia_Cs1mh0A0rmtbfw'
     baidu: ''
 
 # Site header
