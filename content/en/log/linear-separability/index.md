@@ -15,7 +15,7 @@ share: true
 profile: true
 
 tags: 
-- math4ai
+- Math4AI
 - conjecture
 ---
 
