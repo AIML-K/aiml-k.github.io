@@ -6,14 +6,14 @@ title: Conjectures
 # linktitle: Course
 
 # Page summary for search engines.
-summary: "Research questions"
+summary: "Research questions, viewpoints, and conjectures."
 
-# Date page published
-date: 2025-01-01
+# Date page published. e.g. '2025-09-01'. Last updated date when empty.
+date: ''
 
 # Book page type (do not modify).
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 1
+weight: 10
 ---
