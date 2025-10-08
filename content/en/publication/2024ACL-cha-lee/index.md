@@ -6,7 +6,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: '2024-08'
+date: '2024-08-05'
 publishDate: '2024-08-05T00:00:00.000001Z'
 publication_types:
 - paper-conference

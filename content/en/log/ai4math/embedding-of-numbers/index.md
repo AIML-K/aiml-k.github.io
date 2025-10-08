@@ -1,7 +1,7 @@
 ---
 title: Embedding of numbers
 date: 2025-09-30
-type: book
+# type: book
 
 # Show estimated reading time?
 reading_time: true

@@ -3,7 +3,7 @@ title: 'Predicting U.S. Treasury Yield Curve Shifts with FOMC Statements Using B
 authors:
 - taehuncha
 - admin
-date: '2023-06'
+date: '2023-06-17'
 publishDate: '2023-06-24T05:32:51.489481Z'
 publication_types:
 - paper-conference
