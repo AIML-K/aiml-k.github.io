@@ -9,7 +9,7 @@ A particular case of implicit margin maximization by cross-entropy loss in super
 
 <!--more-->
 
-For connection of this to OOD (out-of-distribution) data and NNs, see [Cha and Lee 2025](https://aiml-k.github.io/publication/2025icml-hildworkshop-linsep/).
+> For connection of this to OOD (out-of-distribution) data and NNs, see [Cha and Lee 2025](https://aiml-k.github.io/publication/2025icml-hildworkshop-linsep/).
 
 ## Cross-Entropy Loss and Gradient Direction
 
