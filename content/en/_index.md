@@ -38,7 +38,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 6
       filters:
         author: ''
         category: ''
@@ -50,7 +50,7 @@ sections:
       page_type: news
     design:
       view: card
-      columns: '1'
+      columns: '2'
 
   - block: collection
     content:
