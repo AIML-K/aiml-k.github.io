@@ -2,6 +2,17 @@
 title: Linear Separability of NN-induced Embeddings
 date: 2025-09-30
 type: book
+
+# Show estimated reading time?
+reading_time: true
+
+# Show social sharing links?
+share: true
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: true
 ---
 
 <!-- How does deep neural network do wonders on hard problems?  -->
