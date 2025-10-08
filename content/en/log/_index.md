@@ -7,10 +7,10 @@ sections:
     # id: posts
     content:
       title: AIML@K Logs
-      subtitle: ''
-      text: 'Peeking into recent AIML@K logs'
+      subtitle: 'Peeking into recent AIML@K logs'
+      # text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 10
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -33,4 +33,5 @@ sections:
     design:
       # Choose a listing view
       view: card
+      columns: 2
 ---
