@@ -4,7 +4,7 @@ authors:
 - yanggeekim
 - hanyoungkim
 - admin
-date: '2023-12'
+date: '2023-12-01'
 publishDate: '2023-12-29T00:00:51.489481Z'
 publication_types:
 - paper-conference
