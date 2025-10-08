@@ -13,6 +13,10 @@ share: true
 # Edit your author profiles in the `content/authors/` folder
 # Then reference their folder names with the `authors` front matter option above
 profile: true
+
+tags: 
+- math4ai
+- conjecture
 ---
 
 <!-- How does deep neural network do wonders on hard problems?  -->

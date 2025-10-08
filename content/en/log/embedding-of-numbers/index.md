@@ -1,7 +1,22 @@
 ---
 title: Embedding of numbers
 date: 2025-09-30
-type: book
+# type: book
+
+# Show estimated reading time?
+reading_time: true
+
+# Show social sharing links?
+share: true
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: true
+
+tags: 
+- ai4math
+- conjecture
 ---
 
 Why LLMs make silly math mistakes? This may be the biggest cause.
