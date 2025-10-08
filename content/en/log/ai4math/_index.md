@@ -8,8 +8,8 @@ title: AI4Math
 # Page summary for search engines.
 summary: "AI and Computational Research for Mathematics. e.g. computer-assisted proofs"
 
-# Date page published
-# date: 2025-09-30
+# Date page published. e.g. '2025-09-01'. Last updated date when empty.
+date: ''
 
 # Book page type (do not modify).
 type: book

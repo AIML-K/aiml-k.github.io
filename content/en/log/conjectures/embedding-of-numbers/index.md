@@ -1,4 +1,3 @@
-
 ---
 title: Embedding of numbers
 date: 2025-09-30
