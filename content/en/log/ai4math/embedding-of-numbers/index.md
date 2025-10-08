@@ -13,6 +13,10 @@ share: true
 # Edit your author profiles in the `content/authors/` folder
 # Then reference their folder names with the `authors` front matter option above
 profile: true
+
+tags: 
+- ai4math
+- conjecture
 ---
 
 Gaussian process, Bayesian optimization 그리고 Knowledge gradient에 대하여 작성합니다. 내용 테스트중.

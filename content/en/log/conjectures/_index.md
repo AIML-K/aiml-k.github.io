@@ -1,4 +1,26 @@
 ---
+title: My Page
+type: landing
+
+sections:
+  - block: collection
+    content:
+      title: "Recent Logs"
+      subtitle: "Peeking into recent AIML@K logs"
+      # text: "."
+      filters:
+        - "conjectures"
+        # - "featured"
+      count: 3
+    design:
+      view: "compact"
+      columns: "1"
+
+# sections:
+
+---
+
+<!-- ---
 # Page title
 title: Conjectures
 
@@ -16,4 +38,4 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 10
----
+--- -->
