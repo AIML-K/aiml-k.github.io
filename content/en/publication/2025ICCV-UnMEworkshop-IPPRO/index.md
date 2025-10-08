@@ -18,7 +18,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*[ICCV 2025 Workshop - 2nd Workshop and Challenge on Unlearning and Model Editing (U&ME)](https://sites.google.com/view/u-and-me-workshop/)*"
-publication_short: "In *[ICCV 2025 U&ME workshop](https://sites.google.com/view/u-and-me-workshop/)*"
+publication_short: "In *ICCV 2025 U&ME workshop*"
 
 abstract: "With the growth of demand on neural network compression methods, the structured pruning methods including importance-based approach are actively studied. The magnitude importance and many correlated modern importance criteria often limit the capacity of pruning decision, since the filters with larger magnitudes are not likely to be pruned if the smaller one didn't, even if it is redundant. In this paper, we propose a novel pruning strategy to challenge this dominating effect of magnitude and provide fair chance to each filter to be pruned, by placing it on projective space. After that, we observe the gradient descent movement whether the filters moves toward the origin or not, to measure how the filter is likely to be pruned. This measurement is used to construct PROscore, a novel importance score for IPPRO, a novel importance-based structured pruning with magnitude-indifference. Our evaluation results shows that the proposed importance criteria using the projective space achieves near-lossless pruning by reducing the performance drop in pruning, with promising performance after the finetuning. Our work debunks the ``size-matters'' myth in pruning and expands the frontier of importance-based pruning both theoretically and empirically."
 
