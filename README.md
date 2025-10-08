@@ -36,6 +36,7 @@ AIML@K lab webpage based on [Hugo Blox](./README_original.md).
 
 - 마크다운 관련: https://bootstrap.hugoblox.com/content/writing-markdown-latex/
 - 블록 관련: https://bootstrap.hugoblox.com/blocks/
+- 블록 예시: https://hugoblox.com/blocks/collection/
 - "book" 형식 관련: https://bootstrap.hugoblox.com/content/docs/
 - 태그 페이지 관련: https://bootstrap.hugoblox.com/content/taxonomy-pages/
 
