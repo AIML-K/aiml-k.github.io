@@ -9,11 +9,11 @@ title: GP-BO-KG
 summary: 'Gaussian Process, Bayesian Optimization, Knowledge Gradient'
 
 # Date page published
-date: 2024-09-29
+date: ''
 
 # Book page type (do not modify).
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 100
+weight: 50
 ---
