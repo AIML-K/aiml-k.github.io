@@ -32,6 +32,37 @@ sections:
       #   label: >-
       #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>          
   
+  - block: collection
+    content:
+      title: Select Publications
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        featured_only: true # set "featured: true" in pub frontmatter
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: compact
+      columns: '1'
+
+  - block: logos
+    content:
+      title: Research Partners
+      # subtitle: Section Subtitle
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: logos
+    design:
+      columns: '1'  
+      padding: ['20px', '0', '20px', '0']
+
+
   - block: portfolio
     id: latest
     content:
@@ -96,36 +127,6 @@ sections:
   #   design:
   #     view: card
   #     columns: '1'
-
-  - block: collection
-    content:
-      title: Select Publications
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        featured_only: true # set "featured: true" in pub frontmatter
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: publication
-    design:
-      view: compact
-      columns: '1'
-
-  - block: logos
-    content:
-      title: Research Partners
-      # subtitle: Section Subtitle
-      # Path to the logo images within the `assets/media/` folder
-      logo_folder: logos
-    design:
-      columns: '1'  
-      padding: ['20px', '0', '20px', '0']
 
 
   - block: markdown
