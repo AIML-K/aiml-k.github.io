@@ -4,7 +4,7 @@ title: 김종현
 
 # Full Name
 first_name: 종현
-last_name: 
+last_name: 김
 
 # Is this the primary user of the site?
 superuser: false
