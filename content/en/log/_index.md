@@ -6,7 +6,7 @@ sections:
   - block: collection
     # id: posts
     content:
-      title: AIML@K Logs
+      title: 'AIML@K Logs'
       subtitle: 'Peeking into recent AIML@K logs'
       # text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -33,5 +33,4 @@ sections:
     design:
       # Choose a listing view
       view: card
-      columns: 2
 ---
