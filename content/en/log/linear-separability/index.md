@@ -1,7 +1,7 @@
 ---
 title: Linear Separability of NN-induced Embeddings
 date: 2025-09-30
-type: book
+# type: book
 
 # Show estimated reading time?
 reading_time: true
@@ -15,8 +15,12 @@ share: true
 profile: true
 
 tags: 
+# - AI4Math
 - Math4AI
+# - LanguageModel
+# - AI4Science
 - conjecture
+# - diary
 ---
 
 <!-- How does deep neural network do wonders on hard problems?  -->

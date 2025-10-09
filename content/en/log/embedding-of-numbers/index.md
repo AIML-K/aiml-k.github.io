@@ -16,7 +16,12 @@ profile: true
 
 tags: 
 - AI4Math
+# - Math4AI
+# - LanguageModel
+# - AI4Science
 - conjecture
+# - diary
+
 ---
 
 Why LLMs make silly math mistakes? This may be the biggest cause.
