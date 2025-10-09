@@ -32,25 +32,70 @@ sections:
       #   label: >-
       #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>          
   
-  
-  - block: collection
+  - block: portfolio
+    id: latest
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 6
+      title: Latest
+      # subtitle: My subtitle
+      # text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: news
+        # Folders to display content from
+        folders:
+          - news
+          - event
+        # Only show content with these tags
+        tags: []
+        # Exclude content with these tags
+        exclude_tags: []
+        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+        # kinds:
+        #   - page
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+      # Default portfolio filter button
+      # 0 corresponds to the first button below and so on
+      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
+      default_button_index: 0
+      # Filter button toolbar (optional).
+      # Add or remove as many buttons as you like.
+      # To show all content, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the button toolbar, delete the entire `buttons` block.
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Deep Learning
+      #     tag: Deep Learning
+      #   - name: Other
+      #     tag: Demo
     design:
-      view: card
-      columns: '2'
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      # Choose a listing view
+      view: masonry
+      # For Showcase view, flip alternate rows?
+      # flip_alt_rows: false
+
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 6
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: news
+  #   design:
+  #     view: card
+  #     columns: '1'
 
   - block: collection
     content:
