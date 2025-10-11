@@ -48,9 +48,16 @@ sections:
       offset: 0
       order: desc
       page_type: publication
+
     design:
-      view: compact
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      # Choose a listing view. compact had too small photos. 
+      # view: compact
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: true
 
   - block: logos
     content:
