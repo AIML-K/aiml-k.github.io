@@ -24,11 +24,17 @@ tags:
 # - AI4Science
 # - conjecture
 - diary
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: "We Were at Canada Place"
+  focal_point: ""
+  preview_only: false
 ---
 
 ICML 2025, Vancouver. 
 
-![Canada Place and Us](icml_convention_20250714_164006.jpg)
 Three students of mine - Jaeheun, Jaehyuk, and Taehun - came along. It would have been much better had all contributors were here with me. 
 
 Last NeurIPS was at the same place. I had the same thought. Back then only Taehun was with me ([recall this](https://aiml-k.github.io/news/24-12-15-concordia/)).

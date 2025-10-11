@@ -50,7 +50,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "AI Heard That! ICML 2025 Workshop on Machine Learning for Audio: **[Website](https://mlforaudioworkshop.github.io/)**"
+  caption: "Jaeheun after the poster session -- **[Workshop Website](https://icml.cc/virtual/2025/workshop/39951)**"
   focal_point: ""
   preview_only: false
 
