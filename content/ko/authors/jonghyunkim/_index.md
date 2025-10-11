@@ -10,7 +10,7 @@ last_name: 김
 superuser: false
 
 # Role/position
-role: B.S. Student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ education:
   courses:
     - course: 수학·통계학 학부 과정
       institution: 고려대학교
-      year: 2025
+      year: 2026 (예정)
 
 
 # Social/Academic Networking
@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - B.S. Students
+  - Undergraduate Students
 ---
 
 <!-- 짧은 자기소개 -->
