@@ -24,12 +24,19 @@ AIML@K lab webpage based on [Hugo Blox](./README_original.md).
 - News: let's put up things to brag to the world
 - People: about yourselves! **check out your page**
 - Events: past and future events by the lab
-- Logs: **our own b/vlog** 한글작성!
+- Logs: **our own b/vlog** 
 - Publications: journals, conferences, preprints
 
 ## Language
 
-- Initial version is in English
-- 한국어 버전도 필요 (multilingual setting vs. 별도의 사이트?)
+- Initial version is in English: content/en 
+- 한국어 버전도 존재 (multilingual setting): content/ko
 
+## Resources
+
+- 마크다운 관련: https://bootstrap.hugoblox.com/content/writing-markdown-latex/
+- 블록 관련: https://bootstrap.hugoblox.com/blocks/
+- 블록 예시: https://hugoblox.com/blocks/collection/
+- "book" 형식 관련: https://bootstrap.hugoblox.com/content/docs/
+- 태그 페이지 관련: https://bootstrap.hugoblox.com/content/taxonomy-pages/
 
