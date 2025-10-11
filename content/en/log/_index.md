@@ -44,6 +44,8 @@ sections:
           tag: LanguageModel
         - name: AI4Sci
           tag: AI4Science
+        # - name: Apps
+        #   tag: application
         - name: Conj
           tag: conjecture
         - name: Diary
@@ -53,10 +55,11 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      # Choose a listing view
-      view: showcase
+      # Choose a listing view. showcase has too big photos on left. compact will fit better for logs.
+      view: compact
+      # view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      # flip_alt_rows: false
 
 
   # - block: collection

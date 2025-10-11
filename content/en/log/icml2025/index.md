@@ -67,12 +67,20 @@ After all that crowd, two guys need some rest. Good job!
 
 ### HiLD workshop
 
-TBD
+This workshop had [Taehun's work](https://aiml-k.github.io/publication/2025icml-hildworkshop-linsep/) and [Jaeheun's work](https://aiml-k.github.io/publication/2025icml-hildworkshop-catalyst/). 
+For more details on the work, please visit the links.
+Here are some memories.
+![](icml-hild-wrkshp-taehun-20250718_111648.jpg)
+![](icml-hild-wrkshp-jaeheun-20250718_111636.jpg)
+
+We wanted to have two posters placed together, but someone sneaked in the middle. *sob*
 
 ### Terrabytes workshop
 
-TBD
+Jaeheun was [presenting this work](https://aiml-k.github.io/publication/2025icml-terrabytesworkshop/) (his third presentation in ICML 2025). 
+Three in a row must have made him a bit too busy... 
+![](icml_terrabytes_wrkshp20250719_150226.jpg)
 
 ### ML4Audio workshop
 
-TBD
+Jaehyuk presented this. Seriously, go and check out the photo at [this link](https://aiml-k.github.io/publication/2025icml-ml4audioworkshop/).
