@@ -13,9 +13,9 @@ address:
   postcode: '02455'
   country: South Korea
 
-summary: 'How well can algebraically grounded methods tackle optimization and model compression challenges in deep learning?'
+summary: How to merge the goodness of Laplace Neural Operator and Fourier Neural Operator?
 abstract: |
-  What can be done when gradient-based training slows down near saddle points or suboptimal local minima? In this talk, I introduce Bypass, a principled method that actively guides optimization away from stationary regions by temporarily extending the model space, exploring new descent directions, and contracting back to the original architecture while preserving the learned function. This extension–contraction framework is algebraically grounded, easy to implement, and remarkably effective in improving both convergence and generalization. Building on the same algebraic foundation, I present Catalyst, a novel regularization technique for structured pruning. Catalyst identifies the geometry of pruning-invariant sets and extends the parameter space with a geometry-aware regularizer that enables lossless pruning with clear bifurcation dynamics. It offers a theoretically sound and empirically robust alternative to conventional magnitude-based pruning methods. Together, Bypass and Catalyst demonstrate how algebraic insights can lead to practical improvements in both training and compression. This talk will be of interest to researchers and practitioners working on optimization, model efficiency, and the geometry of deep learning.
+  We introduce Laplace–Fourier Neural Operator (LFNO), a novel operator learning model that bridges the strengths of Laplace Neural Operators (LNO) and Fourier Neural Operators (FNO). By combining the transient response of LNO with the steady-state response of FNO through the Fourier integral operator, our model enables capturing transient behavior more effectively than both LNO and FNO while remaining comparable on linear and nonlinear PDEs. We demonstrate LFNO's effectiveness on solving three ODEs (Duffing, Lorenz, Pendulum) and five PDEs (Euler-Bernoulli beam, diffusion, reaction-diffusion, Brusselator, Gray-Scott) in comparison to FNO and LNO. These results highlight LFNO’s ability to unify transient and steady-state modeling, delivering superior accuracy and stability across various dynamical systems.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -27,7 +27,7 @@ all_day: false
 publishDate: '2025-10-11T01:00:00Z'
 
 authors: 
-  - jeungunha
+  - jeongunha
 
 # Is this a featured talk? (true/false)
 featured: false
