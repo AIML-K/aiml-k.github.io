@@ -33,8 +33,8 @@ tags:
 - Chemical Engineering
 
 links:
-# - name: PDF
-#   url: https://arxiv.org/pdf/2506.01994
+- name: PDF
+  url: https://pir.sh/Bme1VZQ1Xy
 # - name: Github
 #   url: TODO
 # - name: arXiv
