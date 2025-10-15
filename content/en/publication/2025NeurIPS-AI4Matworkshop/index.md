@@ -53,7 +53,8 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "NeurIPS 2025 Workshop - AI4Mat: AI for Accelerated Materials Design: **[Website](https://sites.google.com/view/ai4mat/home)**"
+  caption: "AI Can See Through These SEM Images -- **[NeurIPS 2025 AI4Mat Workshop](https://sites.google.com/view/ai4mat/home)**"
+  # caption: "NeurIPS 2025 Workshop - AI4Mat: AI for Accelerated Materials Design: **[Website](https://sites.google.com/view/ai4mat/home)**"
   focal_point: ""
   preview_only: false
 
