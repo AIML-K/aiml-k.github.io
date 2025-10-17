@@ -25,8 +25,9 @@ organizations:
 bio: There's a cafe with my name.
 
 interests:
+  - Deep Learning Theory
   - Natural Language Processing
-  - AI in Finance
+  - Sequential Decision Processing
 
 education:
   courses:
@@ -78,8 +79,10 @@ user_groups:
   - 박사과정학생
 ---
 
-I'm Taehun Cha, a Ph.D. candidate in AIML. While in undergraduate school, I majored in Sociology, Cultural study, and Applied Statistics. Though I currently do not utilize most of the knowledge I learned at that time, I learned how to think, write, and communicate with people from totally different backgrounds.
+다양한 연구를 수행해 왔습니다. 2023년까진 자연어 처리 관련 연구를, 2024년엔 인과 추론 관련 연구를, 현재는 딥러닝의 성공을 이론적으로 이해하고자 하는 연구를 하고 있습니다. 그때그때 관심있는 연구를 수행했는데, 덕분에 졸업논문을 구성하는데 고생을 하고 있습니다.
 
-After graduation, I needed to find a way to manage my livelihood. So I learned financial engineering and was certificated as an International Financial Risk Manager. Though I currently do not utilize most of the knowledge I learned at that time (again), my curiosity about modern language models ignited at that time. Also, I'm still interested in AI applications in the financial domain.
+다양한 전공을 취득해 왔습니다. 학부 땐 사회학, 문화비평학을, 석사 땐 금융공학을 전공했고, 박사 땐 수학을 전공하고 있습니다. 학부 땐 꿈을 먹고 사는 일의 어려움을 배워 기술을 배우고자 했고, 석사 때 기술을 배우니 그 뒤에 있는 원리에 관심이 생겼습니다. 그때그때 관심있는 전공을 선택했는데, 덕분에 인생 설계에 고생을 하고 있습니다.
 
-Now I'm learning mathematics to explain the several common behaviors of LLMs rigorously. Though digging LLMs from a mathematical aspect is yet immature and challenging, I believe we, humans, need to understand how and why this works clearly, before it is adopted too deeply into our lives.
+현재는 딥러닝과 그 성공을 수학적으로 분석하는 일에 관심을 두고 있습니다. 이전에 자연어 처리 연구를 하며 발견한 흥미로운 현상들을 어떡하면 잘 설명할 수 있을지 고민하고 있습니다.
+
+자세한 연구 내용 및 논문 리스트는 개인 홈페이지를 참고해주세요.
