@@ -9,9 +9,9 @@ authors:
 featured: True
 ---
 
-🎉🎉🎉 **AIML@K contributes three workshop papers to NeurIPS 2025!**
+🎉🎉🎉🎉 **AIML@K contributes four workshop papers to NeurIPS 2025!**
 
-Kudos to Taehun, Jeung-un, and our external collaborators!
+Kudos to Taehun, Jeung-un, Suhyun, and our external collaborators!
 
 <!--more-->
 
@@ -20,3 +20,5 @@ Kudos to Taehun, Jeung-un, and our external collaborators!
 [Feature Learning as a Virtual Covariance Learning](https://aiml-k.github.io/publication/2025neurips-optworkshop/) connects feature learning and SGD by interpreting "virtual updates" on hidden states, enabling direct weight construction aligned with covariance structure—achieving effective learning in 1–2 epochs vs. the typical 10–20. 
 
 [Bridging data-rich and data-poor domains on Lithium-Ion Battery via Scanning Electron Microscopic data through Convolutional Neural Network Transfer Learning](https://aiml-k.github.io/publication/2025neurips-ai4matworkshop/) presents a two-stage transfer learning approach that enables accurate lithium-ion battery SEM image classification across domain shifts, achieving over 0.98 accuracy with limited data.
+
+[Numbers Already Carry Their Own Embeddings](https://aiml-k.github.io/publication/2025neurips-mathaiworkshop/) constructs Adelic Operation-preserved Embeddings (AOE), a training-free representation for numbers such that the embeddings preserve more operational properties than widely used tokenization methods, resulting in much improved AI4Math prediction task performances.
