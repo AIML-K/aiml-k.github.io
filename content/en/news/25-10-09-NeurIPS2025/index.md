@@ -1,5 +1,5 @@
 ---
-title: "NeurIPS 2025: Three Workshop Papers "
+title: "NeurIPS 2025: Four Workshop Papers "
 date: 2025-09-30
 image:
   caption: 'NeurIPS 2025 @ San Diego, USA'
