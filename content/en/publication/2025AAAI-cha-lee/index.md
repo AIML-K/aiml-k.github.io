@@ -13,6 +13,9 @@ publication_short: 'In *AAAI 2025*'
 
 abstract: In causal inference, a randomized experiment is a de facto method to overcome various theoretical issues in observational study. However, the experimental design requires expensive costs, so an efficient experimental design is necessary. We propose ABC3, a Bayesian active learning policy for causal inference. We show a policy minimizing an estimation error on conditional average treatment effect is equivalent to minimizing an integrated posterior variance, similar to Cohn criteria. We theoretically prove ABC3 also minimizes an imbalance between the treatment and control groups and the type 1 error probability. Imbalance-minimizing characteristic is especially notable as several works have emphasized the importance of achieving balance. Through extensive experiments on real-world data sets, ABC3 achieves the highest efficiency, while empirically showing the theoretical results hold.
 
+summary: |
+  We present ABC3, a Bayesian active learning algorithm for learning conditional average treatment effect in causal inference setting. Theoretical analysis links ABC3 and maximum mean discrepancy (MMD), showing the importance of balanced sampling in accurate estimation.
+
 links:
 - name: AAAI
   url: 'https://ojs.aaai.org/index.php/AAAI/article/view/34880'
