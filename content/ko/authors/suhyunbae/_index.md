@@ -54,7 +54,7 @@ social:
     link: https://www.linkedin.com/in/suhyun-bae-869043286
   - icon: cv
     icon_pack: ai
-    link: /content/ko/static/cv/CV_SuhyunBae_202510.pdf
+    link: /content/ko/static/cv/kor_cv.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
