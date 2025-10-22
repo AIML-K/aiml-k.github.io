@@ -57,7 +57,7 @@ social:
     link: https://github.com/sjki928
   - icon: cv
     icon_pack: ai
-    link: cv/CV_BosungJung_20250110.pdf
+    link: cv/CV_BosungJung_20251022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,13 +71,12 @@ user_groups:
   - 석사과정학생
 ---
 
-<!-- 짧은 자기소개 -->
-I am an M.S Student in Department of Mathematics, Korea University. Additionally, I completed my degree at the Department of Mathematics at K.U., as well as my education at K.U. High School and K.U. Middle School.
+저는 고려대학교 수리과학부에서 수학데이터사이언스를 전공하는 석사 과정 학생입니다. 중·고등학교부터 학부, 대학원까지 고려대학교에서 학문적 기반을 다져왔습니다.
 
-<!-- 연구분야/주제 관심사 소개 -->
-My research interests lie in enhancing Small Language Models for mathematical problem-solving and developing a Bayesian optimization algorithm capable of effectively handling mixed spaces. Additionally, I have interest in analyzing optimizers using fractional derivatives, applying them in Gradient Descent and Neural Network. However, I don't want to restrict my interest to just some subjects.
+제 연구는 머신 언러닝, 혼합 및 제약 공간에서의 베이지안 최적화, 수학적 추론을 위한 소형 언어 모델(SLM) 개선에 중점을 두고 있습니다. 최근에는 One-Point-Contraction(OPC) 기반 언러닝 알고리즘을 제안하여, 기존 방법들이 제대로 해결하지 못했던 깊은 특징 표현의 언러닝 문제를 성공적으로 다루었습니다.
 
-<!-- 그 외의 것/trivia -->
-In 2022, I augmented Raman spectra using VAE and GAN. In 2023, I developed an algorithm to hedge IRS products. In 2024, I am participating in a competition to enhance the mathematical reasoning capabilities of artificial intelligence.
+또한, 다목적, 혼합 변수, 제약 조건을 처리할 수 있는 베이지안 최적화 알고리즘을 개발하여 KOLON과의 산업 협업 프로젝트에 적용했습니다. AIMO 대회에서는 수학 문제 해결을 위한 LLM 개선과 시계열 예측을 위한 AutoML 파이프라인 구축에도 참여했습니다.
 
-Additionally, I recently worked as an intern at Nara-Information Co., Ltd. for 4 months, where I participated in training small language models (SLMs) and deploying them as services for institutions, gaining insight into the potential of SLMs.
+2024년에는 나라지식정보에서 인턴으로 근무하며, QLoRA와 Rank-Stabilized LoRA 등 PEFT 기법을 활용해 LLaMA 3.2, Gemma2 등의 소형 언어 모델 학습과 파인튜닝에 기여했습니다. 데이터셋 구축을 위한 웹 크롤링 파이프라인과 공공기관용 SLM 챗봇 서비스 배포에도 참여했으며, GraphRAG를 위한 문서 전처리 파이프라인을 구현해 비정형 문서를 GraphDB 형식으로 변환하고 구조화된 검색이 가능하도록 지원했습니다.
+
+저는 연구와 실무 경험을 통해 쌓은 전문성을 기반으로, 수학, 학습 알고리즘을 실제 업무에 적용하는 다양한 도전 과제에도 열려 있습니다.

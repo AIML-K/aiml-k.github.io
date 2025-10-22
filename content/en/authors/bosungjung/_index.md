@@ -57,7 +57,7 @@ social:
     link: https://github.com/sjki928
   - icon: cv
     icon_pack: ai
-    link: cv/CV_BosungJung_250723.pdf
+    link: cv/CV_BosungJung_251022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
