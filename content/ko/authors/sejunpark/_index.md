@@ -18,15 +18,16 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: [할 일/작업 중]
+bio: traceroute graduation
 
 interests:
-  - [할 일/작업 중]
+  - Mathematical Reasoning in AI
+  - AI for Mathematics
 
 
 education:
     - course: 이학사 (전공: 수학)
-      institution: Korea University
+      institution: 고려대학교
       year: 2025
 
 # Social/Academic Networking
@@ -36,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:me@safespot.dev'
+    link: 'mailto:safespot@korea.ac.kr'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -66,7 +67,12 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-<!-- 연구분야/주제 관심사 소개 -->
-<!-- 그 외의 것/trivia -->
+고려대학교 수학과 응용수학 전공 석사과정으로, 2025년 가을 AIML@K 연구실에 합류했습니다.
 
-[할 일/작업 중]
+<!-- 연구분야/주제 관심사 소개 -->
+사람보다 지능적인 시스템을 만드는 데 기여하겠다는 목표로 인공지능을 공부하기 시작했습니다. 지금은 이 목표를 논리적 추론 능력, 특별히 수학적 추론 능력을 갖는 인공지능 시스템에 대한 연구로 구체화했습니다.
+
+인공지능을 통한 수학으로의 기여에도 관심을 두고 있으며, 자동 형식화(Autoformalization)와 자동 정리 증명(Automated Theorem Proving) 시스템에 대한 연구를 수행하고 있습니다.
+
+<!-- 그 외의 것/trivia -->
+학부 시절부터 수학적 아이디어가 결합된 프로그래밍 문제를 풀거나 만드는 것이 취미였습니다. 이를 통해 컴퓨터 알고리즘과 계산대수학 등으로도 관심 분야를 넓혀왔습니다.

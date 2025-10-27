@@ -18,10 +18,11 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: [TODO/WIP]
+bio: traceroute graduation
 
 interests:
-  - [TODO/WIP]
+  - Mathematical Reasoning in AI
+  - AI for Mathematics
 
 
 education:
@@ -36,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:me@safespot.dev'
+    link: 'mailto:safespot@korea.ac.kr'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -66,7 +67,13 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-<!-- 연구분야/주제 관심사 소개 -->
-<!-- 그 외의 것/trivia -->
+I am a master's student in the Department of Mathematics at Korea University. I joined AIML@K in the fall of 2025.
 
-[TODO/WIP]
+<!-- 연구분야/주제 관심사 소개 -->
+I began studying artificial intelligence with the goal of contributing to the creation of systems more intelligent than humans.
+My current research focuses on developing AI systems capable of logical reasoning, particularly mathematical reasoning.
+I am also conducting research on Autoformalization and Automated Theorem Proving systems, as part of my broader interest in advancing mathematics through artificial intelligence.
+
+<!-- 그 외의 것/trivia -->
+Since my undergraduate years, I have enjoyed solving and designing programming problems that combine mathematical ideas with algorithmic thinking.
+This experience has broadened my interests to include computer algorithms, computational algebra, and related areas.
