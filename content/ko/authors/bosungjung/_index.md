@@ -57,7 +57,7 @@ social:
     link: https://github.com/sjki928
   - icon: cv
     icon_pack: ai
-    link: cv/CV_BosungJung_20251022.pdf
+    link: ko/cv/CV_BosungJung_20251022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,8 +70,6 @@ highlight_name: false
 user_groups:
   - 석사과정학생
 ---
-
-저는 고려대학교 수리과학부에서 수학데이터사이언스를 전공하는 석사 과정 학생입니다. 중·고등학교부터 학부, 대학원까지 고려대학교에서 학문적 기반을 다져왔습니다.
 
 제 연구는 머신 언러닝, 혼합 및 제약 공간에서의 베이지안 최적화, 수학적 추론을 위한 소형 언어 모델(SLM) 개선에 중점을 두고 있습니다. 최근에는 One-Point-Contraction(OPC) 기반 언러닝 알고리즘을 제안하여, 기존 방법들이 제대로 해결하지 못했던 깊은 특징 표현의 언러닝 문제를 성공적으로 다루었습니다.
 
