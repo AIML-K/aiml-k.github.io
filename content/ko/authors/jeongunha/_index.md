@@ -76,8 +76,8 @@ user_groups:
 
 ---
 
-I'm Jeong-un Ha, a Ph.D. candidate in AIML-K. I majored in Representation Theory in the pure mathematics, but now I'm studying Generative Model and Neural Operator.
+저는 AIML-K 박사과정 학생 하정운입니다. 순수수학에서 표현론을 전공했으나, 현재 생성 모델과 신경 연산자를 연구하고 있습니다.
 
-When I was in the project Noise Generation in our lab, I majorly dealt with the conditional/unconditional generative model synthesizing the seismic noise. After the project ended, I was involved in LSTM model development work and experiments sequential dataset synthesis in collaboration with the Department of Mechanical Engineering. (Not formal collaboration between labs.)
+본 연구실의 지진소음생성 프로젝트 참여 당시에는 지진 소음을 합성하는 조건부/무조건부 생성 모델을 주로 다루었습니다. 프로젝트 종료 후에는 기계공학과와의 협업을 통해 LSTM 모델 개발 작업 및 시퀀스 데이터셋 합성 실험에 참여했습니다.
 
-Now I'm interested in Neural Operator Learning. In particular, we focus on generative models using neural operator solvers. I believe that being able to synthesize datasets using mathematical theory will be very useful in environments where dataset synthesis is difficult.
+현재는 신경 연산자 학습에 관심을 가지고 있습니다. 특히 이론적·실용적 측면에서 효과적인 연산자 학습에 주력하고 있습니다. 학계와 산업에의 신경 연산자 학습의 격차 (gap)을 줄여서 보다 나은 신경 연산자 모델을 만드는 것이 목표입니다.

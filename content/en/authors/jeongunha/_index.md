@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jeong-un Ha
+title: Jeongun Ha
 
 # Full name (for SEO)
-first_name: Jeong-un
+first_name: Jeongun
 last_name: Ha
 
 # Username (this should match the folder name)
@@ -76,8 +76,8 @@ user_groups:
 
 ---
 
-I'm Jeong-un Ha, a Ph.D. candidate in AIML-K. I majored in Representation Theory in the pure mathematics, but now I'm studying Generative Model and Neural Operator.
+I'm Jeongun Ha, a Ph.D. candidate in AIML-K. I majored in Representation Theory in the pure mathematics, but now I'm studying Generative Model and Neural Operator.
 
-When I was in the project Noise Generation in our lab, I majorly dealt with the conditional/unconditional generative model synthesizing the seismic noise. After the project ended, I was involved in LSTM model development work and experiments sequential dataset synthesis in collaboration with the Department of Mechanical Engineering. (Not formal collaboration between labs.)
+When I was in the project Noise Generation in our lab, I majorly dealt with the conditional/unconditional generative model synthesizing the seismic noise. After the project ended, I was involved in LSTM model development work and experiments sequential dataset synthesis in collaboration with the Department of Mechanical Engineering.
 
-Now I'm interested in Neural Operator Learning. In particular, we focus on generative models using neural operator solvers. I believe that being able to synthesize datasets using mathematical theory will be very useful in environments where dataset synthesis is difficult.
+Now I'm interested in Neural Operator Learning. In particular, I focus on effective operator learning theoretically and practically. The goal is to bridge the gap between academia and industry in neural operator learning to create better neural operator models.
