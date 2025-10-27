@@ -25,6 +25,7 @@ organizations:
 bio: I'm the last M.S. in Financial Engineering graduate managed from Econ department! You can easily find my name on most Korean keyboards :)
 
 interests:
+  - Natural Language Processing
   - Financial Engineering
   - AI in Finance
 
