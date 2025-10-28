@@ -21,8 +21,8 @@ organizations:
 bio: Just got here!
 
 interests:
-  - Finance
-  - Mathematics
+  - Computer Vision
+  - AI Application
 
 
 education:
@@ -54,9 +54,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Yeazzing
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
+  - icon: cv
+    icon_pack: ai
+    link: cv/CV_이예진.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,13 +71,13 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-My name is Yeajin Lee and I have been a Master student in Finance Engineering at Korea University since 2024.
-
-
+안녕하세요. 고려대학교 인공지능 수학 연구실에서 석사과정을 진행 중인 이예진입니다.
 
 <!-- 연구분야/주제 관심사 소개 -->
-I’m interested in Finance AI and MLP, and especially the convergence of these two fields. In addition, I would like to experience various areas of AI applications.
+현재는 딥러닝 기반 생성 모델(Diffusion) 과 모델 경량화(Pruning) 를 중심으로, 
+이미지·오디오 등 다양한 도메인에서 AI 모델의 응용 가능성을 연구하고 있습니다.
 
 <!-- 그 외의 것/trivia -->
-I took a double undergraduate degree in Economics and AI Convergence (Business&AI) at Hankuk University of Foreign Studies. I have experienced the connection between economics or business and AI, and I’m trying to do so on and on.
-My CV is here: [PDF link](https://drive.google.com/file/d/10-f0w9d58vrs85_dw_p_P5Aw5PaSWT0v/view?usp=sharing).
+AI 기술이 실제 산업과 사람들의 삶에 의미 있게 작동하도록 만드는 데 관심이 많으며,
+앞으로는 Computer Vision과 AI Application 분야에서의 연구 경험을 확장해
+실질적인 문제 해결을 주도하는 AI 개발자로 성장하고자 합니다.

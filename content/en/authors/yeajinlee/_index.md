@@ -21,8 +21,8 @@ organizations:
 bio: Just got here!
 
 interests:
-  - Finance
-  - Mathematics
+  - Computer Vision
+  - AI Application
 
 
 education:
@@ -71,13 +71,13 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-My name is Yeajin Lee and I have been a Master student in Finance Engineering at Korea University since 2024.
+My name is Yeajin Lee, a master’s student at the Artificial Intelligence Mathematics Lab, Korea University.
 
 
 
 <!-- 연구분야/주제 관심사 소개 -->
-I’m interested in Finance AI and MLP, and especially the convergence of these two fields. In addition, I would like to experience various areas of AI applications.
+My current research focuses on deep learning–based generative models (Diffusion) and model compression techniques (Pruning), exploring their applications across various domains such as image and audio data.
 
 <!-- 그 외의 것/trivia -->
-I took a double undergraduate degree in Economics and AI Convergence (Business&AI) at Hankuk University of Foreign Studies. I have experienced the connection between economics or business and AI, and I’m trying to do so on and on.
-My CV is here: [PDF link](https://drive.google.com/file/d/10-f0w9d58vrs85_dw_p_P5Aw5PaSWT0v/view?usp=sharing).
+I am deeply interested in making AI technologies meaningful and practical in real-world settings.
+In the future, I aim to broaden my experience in Computer Vision and AI Applications, growing into an AI developer who leads practical problem-solving and real-world implementation.
