@@ -52,12 +52,12 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=ko&user=gLHBwgEAAAAJ
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-7941-2395
+    link: https://orcid.org/0000-0002-2961-4853
   - icon: github
     icon_pack: fab
     link: https://github.com/invigorator96
@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: cv/CV_JaeheunJung_250718.pdf
+    link: cv/CV_JaeheunJung_251027.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'wodsos@korea.ac.kr'
