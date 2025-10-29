@@ -18,7 +18,7 @@ abstract: |
 
 links:
 - name: URL
-  url: TODO
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318386
 - name: PDF
   url: 'papers/KCC2025-shin-lee.pdf'
 
