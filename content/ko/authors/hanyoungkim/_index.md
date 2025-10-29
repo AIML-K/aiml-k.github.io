@@ -22,9 +22,10 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm the last M.S. in Financial Engineering graduate managed from Econ department! You can easily find my name on most Korean keyboards :)
+bio: 한국어 키보드에서 저를 쉽/게 찾을수있습니다.
 
 interests:
+  - Natural Language Processing
   - Financial Engineering
   - AI in Finance
 
@@ -75,11 +76,12 @@ user_groups:
   - 박사과정학생
 ---
 
-I am a researcher specializing in Deep Learning (DL) in Finance and Natural Language Processing (NLP) Models.
-My interests span various aspects of financial NLP (related to my M.S. thesis), and I keep an open mind toward different applications. On the NLP side, I focus on understanding how models learn and process natural language, particularly exploring why Large Language Models (LLMs) perform so well. Additionally, I have a growing interest in small LLMs (sLLMs) and the diverse empirical techniques used to apply LLMs across various tasks.
+자연어 처리(NLP) 모델 연구와 함께, **금융 분야의 딥러닝(DL)**에 관심을 두고 나아가고 있습니다.
 
-I initially entered this research field with an interest in financial market analysis and prediction, which I developed during my economics studies. Expecting AI to serve as a powerful tool in this domain, I took my first steps into the field. However, as I delved deeper, my fascination with AI itself grew, eventually leading me to shift my focus entirely toward AI research. Interestingly, the mathematics I studied in preparation for financial engineering unexpectedly bridged the gap between finance and AI, making the transition feel even more natural.
+석사 논문 주제였던 금융 NLP의 다양한 측면을 비롯하여 여러 응용 분야에 대해서도 항상 열린 시각을 가지고 있습니다. 특히 NLP 분야에서는 모델이 자연어를 학습하고 처리하는 방식을 깊이 있게 이해하는 데 중점을 두고 있으며, 최근에는 대규모 언어 모델(LLM)이 뛰어난 성능을 보이는 근본적인 이유를 탐구하고 있습니다. 나아가, 소형 LLM(sLLM)과 LLM을 여러 과제에 적용하는 다양한 실증적 기법들에도 관심을 넓혀가고 있습니다.
 
-With this foundation, I approach research with an open and inquisitive mindset, staying actively engaged in ongoing discussions and projects in the lab while continuously seeking new ideas and perspectives to explore.
+제가 이 연구 분야에 처음 발을 들인 것은 경제학을 공부하며 키워 온 금융 시장 분석 및 예측에 대한 관심 때문이었습니다. 처음에는 AI가 이 영역에서 강력한 분석 도구가 될 것이라 기대하며 연구를 시작했지만, 연구를 거듭할수록 AI라는 분야 자체의 매력에 더 깊이 빠져들게 되었습니다. 그 결과, 지금은 AI 연구 자체로 관심의 축을 옮기게 되었습니다. 흥미롭게도, 과거 금융 공학을 준비하며 공부했던 수학이 금융과 AI 사이의 간극을 자연스럽게 메워주어, 이러한 학문적 전환이 더욱 순조롭게 진행이 되는듯하다는 착각을 하며 지냅니다.
 
-I have always valued the principle of "cold head, warm heart" and strive to embody it in my daily work. I make it a priority to approach research with dedication and clarity while fostering a warm and collaborative environment. Ensuring smooth coordination among team members and minimizing disruptions in collective workflows is a key value I uphold in my research approach.
+이러한 배경을 바탕으로, 저는 항상 개방적이고 탐구적인 자세로 연구에 임하고 있습니다. 연구실에서 진행되는 논의와 프로젝트에 적극적으로 참여하는 한편, 탐구할 만한 새로운 아이디어와 관점을 꾸준히 모색합니다.
+
+저는 '냉철한 머리, 따뜻한 가슴'이라는 가치를 항상 중요하게 생각하며, 이를 연구와 일상에서 실천하고자 노력합니다. 연구에 임할 때는 명료하고 진지한 태도를 견지하는 동시에, 따뜻하고 협력적인 분위기를 조성하는 것을 최우선으로 여깁니다. 팀원들과 원활하게 협력하며 공동의 작업 흐름에 방해가 생기지 않도록 최소화하는 것, 이것이 제가 연구 과정에서 지키고자 하는 핵심 가치입니다.
