@@ -56,7 +56,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-7941-2395
+    link: https://orcid.org/0009-0005-7323-3555
   - icon: github
     icon_pack: fab
     link: https://github.com/prism4304
