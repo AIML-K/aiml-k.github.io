@@ -1,7 +1,7 @@
 ---
 title: 'Agent-based Instructional Support Chatbot'
 authors:
-- 신다연
+- dayeonshin
 - admin
 # author_notes:
 # - "Equal contribution"
