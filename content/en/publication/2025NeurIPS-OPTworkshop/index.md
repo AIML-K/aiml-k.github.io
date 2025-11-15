@@ -36,8 +36,8 @@ tags:
 - Stochastic Gradient Descent
 
 links:
-# - name: PDF
-#   url: https://arxiv.org/pdf/2506.01994
+- name: PDF
+  url: https://github.com/cth127/cth127.github.io/blob/main/assets/pdf/2025/Neurips2025_Workshop_Paper.pdf
 # - name: Github
 #   url: TODO
 # - name: arXiv
