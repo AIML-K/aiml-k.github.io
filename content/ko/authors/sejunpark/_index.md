@@ -24,10 +24,9 @@ interests:
   - Mathematical Reasoning in AI
   - AI for Mathematics
 
-
 education:
   courses:
-    - course: 이학사 (전공: 수학)
+    - course: '이학사 (전공: 수학)' # ':' caused problem in yaml unmarshaling -dhl
       institution: 고려대학교
       year: 2025
 
