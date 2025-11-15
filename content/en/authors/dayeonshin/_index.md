@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ekdus2561@naver.com'
+    link: 'mailto:yeon_25@korea.ac.kr'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -75,7 +75,7 @@ user_groups:
 My name is Dayeon Shin, and I am a master’s student in the Department of Mathematics (MDS) at Korea University and researching artificial intelligence at AIML@K.
 
 <!-- 연구분야/주제 관심사 소개 -->
-My research interests include natural language processing (NLP). Additionally, I would like to explore AI applications in the environmental field, which is my academic background.
+I'm interested in leveraging mathematics to enhance the reliability of AI models and agent architecture to improve work efficiency. I have experience developing a LangGraph-based automated teaching assistant chatbot and have conducted research on spatial audio generation.
 
 <!-- 그 외의 것/trivia -->
-After graduating from Hankuk University of Foreign Studies, I worked as a math instructor for two and a half years, during which I realized my interest in mathematics. This led me to develop a keen interest in AI based on mathematical approaches, and I plan to conduct AI research utilizing various domains.
+AAfter graduating from Hankuk University of Foreign Studies with a degree in Environmental Studies, I worked as a math instructor at a private academy for two and a half years. Then, driven by a passion for mathematics and AI, I enrolled in Korea University's Department of Mathematics. I hope to apply AI to various domains to make the world a better place.
