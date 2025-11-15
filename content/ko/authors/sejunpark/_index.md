@@ -26,6 +26,7 @@ interests:
 
 
 education:
+  courses:
     - course: 이학사 (전공: 수학)
       institution: 고려대학교
       year: 2025
