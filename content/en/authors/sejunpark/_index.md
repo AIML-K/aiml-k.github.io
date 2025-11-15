@@ -26,6 +26,7 @@ interests:
 
 
 education:
+  courses:
     - course: B.S. in Mathematics
       institution: Korea University
       year: 2025
