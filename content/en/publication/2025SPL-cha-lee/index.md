@@ -19,23 +19,23 @@ publication: "*IEEE Signal Processing Letters*"
 publication_short: "In *IEEE SPL*"
 
 abstract: |
-Functional neural networks (FNNs) have emerged as powerful tools for modeling complex relationships in functional data, leveraging the flexibility of deep learning to capture non-linear patterns.
-However, most components of FNNs are directly borrowed from standard deep neural networks, such as element-wise non-linear activation functions and gradient-based optimization strategies.
-In this study, we investigate how the functional nature of FNNs affects gradient-based optimization.
-Analogous to the well-known vanishing gradient problem, we theoretically show that the smoothness of the hidden state function bounds the weight gradient norm, a phenomenon we call the \textit{curse of smoothness}.
-Empirically, we demonstrate that FNN optimization becomes significantly more difficult as model depth increases, compared to conventional deep neural networks.
-In particular, we verify that gradients in FNNs vanish in deeper layers as the hidden state functions become smoother.
-These findings suggest that applying standard deep learning techniques to functional data without accounting for the unique properties of functional data can lead to misleading or suboptimal results.Functional neural networks (FNNs) have emerged as powerful tools for modeling complex relationships in functional data, leveraging the flexibility of deep learning to capture non-linear patterns.
-However, most components of FNNs are directly borrowed from standard deep neural networks, such as element-wise non-linear activation functions and gradient-based optimization strategies.
-In this study, we investigate how the functional nature of FNNs affects gradient-based optimization.
-Analogous to the well-known vanishing gradient problem, we theoretically show that the smoothness of the hidden state function bounds the weight gradient norm, a phenomenon we call the \textit{curse of smoothness}.
-Empirically, we demonstrate that FNN optimization becomes significantly more difficult as model depth increases, compared to conventional deep neural networks.
-In particular, we verify that gradients in FNNs vanish in deeper layers as the hidden state functions become smoother.
-These findings suggest that applying standard deep learning techniques to functional data without accounting for the unique properties of functional data can lead to misleading or suboptimal results.
+  Functional neural networks (FNNs) have emerged as powerful tools for modeling complex relationships in functional data, leveraging the flexibility of deep learning to capture non-linear patterns.
+  However, most components of FNNs are directly borrowed from standard deep neural networks, such as element-wise non-linear activation functions and gradient-based optimization strategies.
+  In this study, we investigate how the functional nature of FNNs affects gradient-based optimization.
+  Analogous to the well-known vanishing gradient problem, we theoretically show that the smoothness of the hidden state function bounds the weight gradient norm, a phenomenon we call the \textit{curse of smoothness}.
+  Empirically, we demonstrate that FNN optimization becomes significantly more difficult as model depth increases, compared to conventional deep neural networks.
+  In particular, we verify that gradients in FNNs vanish in deeper layers as the hidden state functions become smoother.
+  These findings suggest that applying standard deep learning techniques to functional data without accounting for the unique properties of functional data can lead to misleading or suboptimal results.Functional neural networks (FNNs) have emerged as powerful tools for modeling complex relationships in functional data, leveraging the flexibility of deep learning to capture non-linear patterns.
+  However, most components of FNNs are directly borrowed from standard deep neural networks, such as element-wise non-linear activation functions and gradient-based optimization strategies.
+  In this study, we investigate how the functional nature of FNNs affects gradient-based optimization.
+  Analogous to the well-known vanishing gradient problem, we theoretically show that the smoothness of the hidden state function bounds the weight gradient norm, a phenomenon we call the \textit{curse of smoothness}.
+  Empirically, we demonstrate that FNN optimization becomes significantly more difficult as model depth increases, compared to conventional deep neural networks.
+  In particular, we verify that gradients in FNNs vanish in deeper layers as the hidden state functions become smoother.
+  These findings suggest that applying standard deep learning techniques to functional data without accounting for the unique properties of functional data can lead to misleading or suboptimal results.
 
 # Summary. An optional shortened abstract.
 summary: |
-This study reveals that functional neural networks (FNNs) suffer from a “curse of smoothness,” where the smoothness of hidden state functions causes gradient vanishing and hampers optimization in deep architectures, highlighting the limitations of directly applying standard deep learning methods to functional data.
+  This study reveals that functional neural networks (FNNs) suffer from a “curse of smoothness,” where the smoothness of hidden state functions causes gradient vanishing and hampers optimization in deep architectures, highlighting the limitations of directly applying standard deep learning methods to functional data.
 
 tags:
 - Functional Neural Network
