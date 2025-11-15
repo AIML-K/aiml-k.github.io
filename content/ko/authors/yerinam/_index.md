@@ -62,6 +62,5 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-I'm Yeri Nam, a System Software Engineer at HP. After graduating from Ewha Womans University in 2019, I joined HP following an internship where I developed a Gradient Boost Decision Tree model to predict adoption speed based on animal profiles, including text and images. Since then, I've specialized in image quality evaluation and document processing algorithms for printer devices.
-Currently, I'm pursuing graduate studies as an M.S. student at Korea University. My research interests include embedding and reasoning in large language models. I'm fluent in both C and Python, and I thrive on solving complex problems through collaboration and customer-focused design.
-I've also led volunteer initiatives like Hour of Code, inspiring young students to explore coding. My international experience as an exchange student in California has broadened my perspective and strengthened my adaptability.
+저는 HP에서 시스템 소프트웨어 엔지니어로 일하고 있는 남예리입니다. 2019년 이화여자대학교를 졸업한 후, 인턴십을 통해 동물의 텍스트 및 이미지 프로파일을 기반으로 입양 속도를 예측하는 Gradient Boost Decision Tree 모델을 개발하였고, 이를 계기로 HP에 입사하게 되었습니다.
+입사 이후로는 프린터 장치의 이미지 품질 평가 및 문서 처리 알고리즘을 전문적으로 다루고 있습니다. 현재는 고려대학교에서 석사 과정을 밟고 있으며, 대규모 언어 모델에서의 임베딩 및 추론에 관심을 가지고 연구 중입니다.
