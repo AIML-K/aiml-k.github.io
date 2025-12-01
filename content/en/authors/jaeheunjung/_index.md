@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: cv/CV_JaeheunJung_251027.pdf
+    link: cv/CV_JaeheunJung_251201.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'wodsos@korea.ac.kr'
@@ -76,7 +76,7 @@ user_groups:
   - Ph.D. Students
 ---
 
-I am a Ph.D cantidate in Department of Mathematics, Korea University. As a senior member of AIMLK, I managed multiple projects on NLP, computer vision, signal processing, etc. For my personal research, I'm working on training algorithm called bypassing, and related applications including structured pruning for neural networks.
+I am a Ph.D in mathematics, graduated from Department of Mathematics, Korea University. As a senior member of AIMLK, I managed multiple projects on NLP, computer vision, signal processing, etc. For my personal research, I'm working on training algorithm called bypassing, and related applications including structured pruning for neural networks.
 
 I like to create something novel and useful, and thus I characterize myself an inventor. Before entering the graduate school, I was working on start-up projects with my invention, the flat light collecting device and blind clutches. After, I started to invent mathematical proofs as a graduate student, major in algebraic geometry for the first two years and finally joined to AIMLK as a starting member to make AI-methods with my mathematical skills.
 
