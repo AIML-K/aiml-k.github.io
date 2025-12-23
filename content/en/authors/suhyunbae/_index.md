@@ -31,9 +31,9 @@ education:
     # - course: Ph.D. in Computer Science
     #   institution: Princeton University
     #   year: 2019
-    - course: M.S. in Mathematics
+    - course: M.S. in Mathematical Data Science
       institution: Korea University
-      year: 2026 (expected)
+      year: 2026
     - course: B.S. in Mathematics
       institution: Korea University
       year: 2024
@@ -54,7 +54,7 @@ social:
     link: https://www.linkedin.com/in/suhyun-bae-869043286
   - icon: cv
     icon_pack: ai
-    link: cv/CV_SuhyunBae_2510.pdf
+    link: cv/CV_SuhyunBae_20251224.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
