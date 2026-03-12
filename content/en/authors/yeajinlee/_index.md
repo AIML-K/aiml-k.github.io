@@ -18,21 +18,21 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Just got here!
+bio: Just finished here!
 
 interests:
-  - Computer Vision
+  - Generative AI
   - AI Application
 
 
 education:
   courses:
-    - course: Master in Financial Mathematics 
+    - course: Master in Financial Engineering 
       institution: Korea University, Seoul, Korea
-      year: 2024-current
+      year: 2026
     - course: Bachelor in Economics / Artificial Intelligence Convergence (Business & AI) 
       institution: Hankuk University of Foreign Studies, Seoul, Korea
-      year: 2019-2024
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -54,9 +54,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Yeazzing
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
+  - icon: cv
+    icon_pack: ai
+    link: cv/CV_yeajinlee.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
