@@ -21,6 +21,7 @@ organizations:
 bio: Mathematician & Designer
 
 interests:
+- Medical Engineering
 - Graphic Design
 - Mathematics
 
@@ -34,7 +35,7 @@ education:
     #   year: 2026 (expected)
     - course: B.S. in Mathematics
       institution: Korea University
-      year: 2025 (expected)
+      year: 2027 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,15 +48,6 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/_sanga_yoon_/
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=I-XhaYgAAAAJ
-  # - icon: orcid
-  #   icon_pack: ai
-  #   link: https://orcid.org/0009-0002-7449-5336
   - icon: github
     icon_pack: fab
     link: https://github.com/sanga-yoon
@@ -80,10 +72,8 @@ user_groups:
 <!-- 연구분야/주제 관심사 소개 -->
 <!-- 그 외의 것/trivia -->
 
-I am Sanga Yoon, an undergraduate student at Korea University. I am majoring in Mathematics to fulfill my interest in AI. 
+I am Sanga Yoon, an undergraduate student at Korea University. Pursuing a dual major in Mathematics and Psychology, I am interested in human-centered technology. My fields of study are visual communication, medical engineering, and assistive technologies.
 
-I am taking part of designing graphic elements and frontend UX in this lab.
-My main field of study is visual communication design, especially specializing in type design.
-As a would-be graphic designer, I always seek for a way to integrate AI and numerical analysis to type design workflow. 
+In the lab, I took an assistive role in processing data and developing frontend tools for better team efficiency. Along with this, I also did exploratory research on a novel AI-based textile simulation pipeline as an individual project.
 
-Currently, I am designing a Hangeul typeface as well as participating in a type revival research team analyzing the early Hanguel metal types.
+Using my previous experience of analyzing medical images and cardiovascular signals, I am planning to go deeper into medical intervention and diagnosis.
