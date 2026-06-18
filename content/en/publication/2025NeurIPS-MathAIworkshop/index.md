@@ -26,7 +26,7 @@ summary: |
   We present Adelic Operation-preserved Embedding (AOE), a training-free numerical representation that combines real and p-adic components to preserve additive and multiplicative structure, dropping seamlessly into standard Transformers.
 
 tags:
-- AI4Math
+- [AI4Math, Number Representation]
 
 links:
 # - name: PDF
@@ -35,8 +35,12 @@ links:
 #   url: TODO
 # - name: arXiv
 #   url: https://arxiv.org/abs/2506.01994
-- name: openreview
-  url: https://openreview.net/forum?id=FG7FDtxUcl
+- name: arXiv
+  url: https://arxiv.org/abs/2606.14108
+- name: Github
+  url: https://github.com/AIML-K/Adele/releases/tag/v0.1.0
+- name: poster
+  url: 'posters/NIPS2025_AOE_poster.pdf'
 
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
@@ -45,6 +49,9 @@ links:
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
+
+url_slides: 'uploads/files/2025/CAPSTONE2025-bae.pptx'
+url_pdf: 'uploads/files/2025/NIPS2025-bae-lee.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
