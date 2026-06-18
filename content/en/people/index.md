@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Principal Investigator
 #          - Researchers
+          - Postdoctoral researcher
           - Ph.D. Students
           - M.S. Students
           - Undergraduate Students
