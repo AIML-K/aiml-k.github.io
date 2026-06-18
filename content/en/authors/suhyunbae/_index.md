@@ -10,7 +10,7 @@ last_name: Bae
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. in Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
     # - course: Ph.D. in Computer Science
     #   institution: Princeton University
     #   year: 2019
-    - course: M.S. in Mathematical Data Science
+    - course: M.S. in Mathematics(Mathematical Data Science)
       institution: Korea University
       year: 2026
     - course: B.S. in Mathematics
@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Alumni
 ---
 
 <!-- 짧은 자기소개 -->
