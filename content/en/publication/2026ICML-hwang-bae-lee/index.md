@@ -4,11 +4,11 @@ authors:
 - hyunsanghwang
 - suhyunbae
 - admin
-date: "2026-6-17T04:00:00Z"
+date: "2026-06-17T04:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-6-18T04:00:00Z"
+publishDate: "2026-06-18T04:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
