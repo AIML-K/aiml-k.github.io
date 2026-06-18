@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Inventing AI methods using mathematics
+bio: Solving AI problems with Math
 
 interests:
   - Geometric methods
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
+    - course: PhD in Applied mathematics
+      institution: Korea University
+      year: 2026
     # - course: M.S. in Mathematics
     #   institution: Korea University
     #   year: 2009
@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: cv/CV_JaeheunJung_251027.pdf
+    link: cv/CV_JaeheunJung_260610.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'wodsos@korea.ac.kr'
@@ -73,11 +73,16 @@ email: 'wodsos@korea.ac.kr'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
----
+  - Postdoctoral researcher
+--- 
 
-I am a Ph.D cantidate in Department of Mathematics, Korea University. As a senior member of AIMLK, I managed multiple projects on NLP, computer vision, signal processing, etc. For my personal research, I'm working on training algorithm called bypassing, and related applications including structured pruning for neural networks.
+I am a professional mathematician and AI researcher holding a Ph.D. from the Department of Mathematics at Korea University. I characterize myself as an inventor who views artificial intelligence not merely as an engineering discipline, but as a profound geometric phenomenon. My research is driven by a core conviction: that the most challenging bottlenecks in deep learning are, at their root, unresolved problems in geometry and topology.
 
-I like to create something novel and useful, and thus I characterize myself an inventor. Before entering the graduate school, I was working on start-up projects with my invention, the flat light collecting device and blind clutches. After, I started to invent mathematical proofs as a graduate student, major in algebraic geometry for the first two years and finally joined to AIMLK as a starting member to make AI-methods with my mathematical skills.
+My work bridges classical algebraic geometry with state-of-the-art AI architectures, replacing fragile empirical heuristics with absolute mathematical guarantees. As a founding and senior member of the AIMLK lab, I have conceptualized and led diverse interdisciplinary projects across time-series signal processing (AI4Science), NLP, and computer vision. My foundational research focuses on creating principled reparameterization and extension paradigms, including:
 
-As a mathematics majored researcher, I am looking for methods with rigorous mathematical explanations for various subdomains of AI. Especially geometric methods and reparameterization methods are in my interest. 
+- Catalyst & IPPRO: Lossless structured pruning and scale-invariant importance metrics leveraging algebraic varieties and projective geometry ($\mathbb{RP}^N$).
+- One-Point Contraction (OPC) & FM-recovery: Irreversible machine unlearning and diagnostic attacks via the intrinsic geometry of softmax preimages.
+- Autokinematics: Bypassing topological barriers in mechanical linkage design using algebraic topology and Mixture-of-Experts (MoE) architectures.
+-Bypassing: Resolving stationary point problem in neural network training, by characterizing given landscape as algebraic variety in perspective of high dimensional space
+
+Moving forward, my mission is to establish algebraic geometry as a foundational language for modern AI—turning empirical observations into universal geometric truths.
