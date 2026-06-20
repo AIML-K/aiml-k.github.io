@@ -24,7 +24,7 @@ date_end: '2025-11-05T16:00:00+09:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-10-11T01:00:00Z'
+publishDate: '2099-10-11T01:00:00Z'
 
 authors: 
   - jeongunha
