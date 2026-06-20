@@ -39,34 +39,34 @@ sections:
       spacing:
         padding: ['10px', '0', '20px', '0']
 
-  - block: markdown
-    content:
-      title: 'Research Themes'
-      text: |
-        #### [AI for Mathematics](./ai-for-math/)
-        Using AI to explore, conjecture, formalize, and assist mathematical
-        reasoning — from autoformalization to computational discovery.
+  # - block: markdown
+  #   content:
+  #     title: 'Research Themes'
+  #     text: |
+  #       #### [AI for Mathematics](./ai-for-math/)
+  #       Using AI to explore, conjecture, formalize, and assist mathematical
+  #       reasoning — from autoformalization to computational discovery.
 
-        #### [Mathematical Foundations of AI](./math-for-ai/)
-        The theory behind learning: optimization, generalization, neural
-        dynamics, and the phenomena (feature learning, neural collapse,
-        grokking) that explain how models behave.
+  #       #### [Mathematical Foundations of AI](./math-for-ai/)
+  #       The theory behind learning: optimization, generalization, neural
+  #       dynamics, and the phenomena (feature learning, neural collapse,
+  #       grokking) that explain how models behave.
 
-        #### [AI for Science and Engineering](./ai-for-science/)
-        Operator learning and scientific machine learning for PDEs, seismic and
-        ground-motion modeling, materials, batteries, and biomedical imaging.
+  #       #### [AI for Science and Engineering](./ai-for-science/)
+  #       Operator learning and scientific machine learning for PDEs, seismic and
+  #       ground-motion modeling, materials, batteries, and biomedical imaging.
 
-        #### [Language, Reasoning, and Knowledge](./language-reasoning/)
-        Language models and their limits: reasoning, retrieval, representation,
-        hallucination, and extrapolation.
+  #       #### [Language, Reasoning, and Knowledge](./language-reasoning/)
+  #       Language models and their limits: reasoning, retrieval, representation,
+  #       hallucination, and extrapolation.
 
-        #### [Applied AI Systems](./applied-ai/)
-        Turning research into practice — education tools, recommendation,
-        chatbots, and dependable ML systems.
-    design:
-      columns: '1'
-      spacing:
-        padding: ['10px', '0', '20px', '0']
+  #       #### [Applied AI Systems](./applied-ai/)
+  #       Turning research into practice — education tools, recommendation,
+  #       chatbots, and dependable ML systems.
+  #   design:
+  #     columns: '1'
+  #     spacing:
+  #       padding: ['10px', '0', '20px', '0']
 
   # # ---------- Featured publications ----------
   # # Mirrors the homepage "Select Publications" block. Shows items with
