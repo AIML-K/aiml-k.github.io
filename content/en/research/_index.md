@@ -9,19 +9,12 @@ sections:
     content:
       title: 'Research at AIML@K'
       text: |
-        AIML@K is the AI + Math Lab in the Department of Mathematics at Korea 
-        University, and the spearhead of the department's research in artificial
-        intelligence. Our premise is simple and ambitious: the deepest progress
-        in AI is mathematical. We expand the frontier of AI *with* mathematics,
-        and we use AI in turn to extend mathematics and frontiers in science.
+        Our premise is simple and ambitious: in the deepest levels of the progress in AI contain mathematics. 
+        We expand the frontier of AI *with* mathematics, and in turn use AI to advance mathematics and frontiers in science.
 
-        That two-way exchange runs through everything we do — such as the theory of
-        why deep networks learn, learnable operators that solve scientific equations,
-        analysis of deep generative models and more. 
-
-        The themes below are entry points, not walls — most projects sit
-        across several of them. Each links to a fuller description and to the
-        publications, logs, and events behind it.
+        That two-way exchange runs through everything we do — such as the theory of why deep networks learn, learnable operators that solve scientific equations, analysis of deep generative models and more. 
+        The themes below are not walls. most projects sit across several of them. 
+        Each links to a more detailed description, related publications and more.
     design:
       columns: '1'
       # A light tinted band to separate the intro from the cards.
@@ -37,7 +30,7 @@ sections:
   
   - block: collection
     content:
-      title: Research Themes
+      title: Themes
       filters:
         folders: [research]
     design:
