@@ -48,10 +48,10 @@ social:
   #   link: https://orcid.org/0009-0002-7449-5336
   - icon: github
     icon_pack: fab
-    link: https://github.com/jiyunJ
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
+    link: https://github.com/JiyoonJ
+  - icon: cv
+    icon_pack: ai
+    link: cv/CV_JiyoonJung.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: '1626jy@gmail.com'
