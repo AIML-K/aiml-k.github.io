@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 황현
+title: 황현상
 
 # Full name (for SEO)
 first_name: 현상
