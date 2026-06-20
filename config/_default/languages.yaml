@@ -19,6 +19,9 @@ en:
       - name: People
         url: people
         weight: 30
+      - name: Research
+        url: research
+        weight: 35
       - name: Events
         url: event
         weight: 40
@@ -47,6 +50,9 @@ ko:
       - name: 사람들
         url: people
         weight: 30
+      - name: 연구
+        url: research
+        weight: 35
       - name: 이벤트
         url: event
         weight: 40
