@@ -18,12 +18,13 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: System Software Engineer at HP Printing Korea | Expert in Image Quality and Scan Algorithms | Electronics & Math Graduate
+bio: 응용수학 석사과정 | Agentic AI, LLM, Stable Diffusion 언러닝 연구
 
 interests:
+  - Agentic AI
   - Large Language Model
-  - Question and Answering 
-  - Optical Character Recognition
+  - Machine Unlearning
+  - Diffusion Models
 
 education:
   courses:
@@ -62,5 +63,8 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-저는 HP에서 시스템 소프트웨어 엔지니어로 일하고 있는 남예리입니다. 2019년 이화여자대학교를 졸업한 후, 인턴십을 통해 동물의 텍스트 및 이미지 프로파일을 기반으로 입양 속도를 예측하는 Gradient Boost Decision Tree 모델을 개발하였고, 이를 계기로 HP에 입사하게 되었습니다.
-입사 이후로는 프린터 장치의 이미지 품질 평가 및 문서 처리 알고리즘을 전문적으로 다루고 있습니다. 현재는 고려대학교에서 석사 과정을 밟고 있으며, 대규모 언어 모델에서의 임베딩 및 추론에 관심을 가지고 연구 중입니다.
+연구 관심사는 에이전틱 AI(agentic AI), 대규모 언어 모델(LLM), 기계적 언러닝(machine unlearning)입니다. 특히 Stable Diffusion에서의 언러닝에 관심을 두고 있으며, 모델의 유용성과 생성 품질을 유지하면서 특정 개념을 선택적으로 제거하는 방법을 연구하고 있습니다.
+
+대학원 진학 전, HP Imaging Team에서 6년 이상 시스템 소프트웨어 엔지니어로 근무하며 이미지 품질 평가, 스캔 애플리케이션용 이미징 파이프라인 최적화, OCR 기반 온디바이스 보안 솔루션 등을 담당했습니다. 실제 배포 환경의 제약 속에서 이미징 파이프라인과 edge AI를 다룬 이러한 프로덕션 경험은, 신뢰할 수 있는 LLM 기반 에이전트를 구축하는 연구와 Stable Diffusion과 같은 생성형 이미지 모델의 통제 가능한 동작을 탐구하는 연구, 두 갈래 모두의 토대가 되고 있습니다.
+
+이러한 시스템 지향적 사고방식은 일상적인 업무 방식에도 이어집니다. 업무 현장에서 반복적인 워크플로를 자동화한 경험을 통해, 생산성 향상에 신뢰할 수 있는 도구가 얼마나 중요한지 체감했습니다. 저는 연구와 학업에 실질적으로 도움이 되는 유연한 에이전틱 도구를 개발하고자 합니다. 프로토타입에서만 유망한 것이 아니라, 실제 환경에서도 믿을 수 있는 도구를 만드는 것이 목표입니다.
