@@ -18,7 +18,7 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: M.S. Student in Applied Mathematics | Research in Agentic AI, LLM, and Unlearning in Stable Diffusion
+bio: Nature does not rush, yet everything gets done.
 
 interests:
   - Agentic AI
