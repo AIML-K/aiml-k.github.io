@@ -48,9 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:hyunsanghwang@korea.ac.kr'
-  - icon: globe
-    icon_pack: fas
-    link: 
+  #- icon: globe
+  #  icon_pack: fas
+  #  link: 
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
