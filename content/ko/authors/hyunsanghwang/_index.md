@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Hyunsang Hwang
+title: 황현
 
 # Full name (for SEO)
-first_name: Hyunsang
-last_name: Hwang
+first_name: 현상
+last_name: 황
 
 # Username (this should match the folder name)
 authors:
@@ -75,7 +75,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - 박사과정학생
 ---
 
 안녕하세요 황현상입니다. 인공지능의 해석가능성에 관심이 있습니다.
