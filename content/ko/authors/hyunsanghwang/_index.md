@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Hyunsang Hwang
+title: 황현상
 
 # Full name (for SEO)
-first_name: Hyunsang
-last_name: Hwang
+first_name: 현상
+last_name: 황
 
 # Username (this should match the folder name)
 authors:
@@ -48,9 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:hyunsanghwang@korea.ac.kr'
-  - icon: globe
-    icon_pack: fas
-    link: 
+  #- icon: globe
+  #  icon_pack: fas
+  #  link: 
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -75,7 +75,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - 박사과정학생
 ---
 
 안녕하세요 황현상입니다. 인공지능의 해석가능성에 관심이 있습니다.
