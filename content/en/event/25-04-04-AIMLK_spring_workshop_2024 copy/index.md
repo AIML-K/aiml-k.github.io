@@ -6,13 +6,13 @@ event_url: https://sites.google.com/view/aimlk-workshops/2025-spring
 
 location: 633 Asan Science Building
 address:
-  street: Mediheal Earth and Environment Science Building
+  street: 145 Anam-ro, Seongbuk-gu
   city: Seoul
   # region: CA
   postcode: '02841'
   country: South Korea
 
-summary: 'The 5th AIML@K Workshop invites DLMath and AMath'
+summary: 'The 6th AIML@K Workshop invites DLMath and AMath'
 abstract: |
   AIML@K Workshop is a biannual workshop with the aim of fostering graduate student research presentation and discussion. Undergraduates, postdoctoral researchers and faculty members are also welcome to the workshop. In this particular event, [DLMath](https://dlmath-lab.github.io/index.html) by Prof. Seungsang Oh and [AMath](https://mathematicians.korea.ac.kr/hongjoong/) by Prof. Hongjoong Kim.
 

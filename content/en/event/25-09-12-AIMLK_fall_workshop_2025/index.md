@@ -1,28 +1,29 @@
 ---
-title: AIML@K 2024 Fall Workshop
+title: AIML@K Spring 2025 Workshop
 
-event: AIML@K 2024 Fall Workshop
-event_url: TBA # https://sites.google.com/view/aimlk-workshops/2023-fall
+event: AIML@K Spring 2025 Workshop
+event_url: https://sites.google.com/view/aimlk-workshops/2025-spring
 
-location: TBA # Yoo-Im-Soon Hall, Mediheal Earth and Environment Science Building
-# address:
-#   street: Mediheal Earth and Environment Science Building
-#   city: Seoul
-#   # region: CA
-#   postcode: '02841'
-#   country: South Korea
+location: 6th Floor Lobby, Asan Science Building
+address:
+  street: 145 Anam-ro, Seongbuk-gu
+  city: Seoul
+  # region: CA
+  postcode: '02841'
+  country: South Korea
 
-summary: 'The 5th AIML@K Workshop takes place on September 27, 2024'
-abstract: 'AIML@K Workshop is a biannual workshop with the aim of fostering graduate student research presentation and discussion. Undergraduates, postdoctoral researchers and faculty members are also welcome to the workshop. In this particular event, students under the supervision of Prof. Seung Sang Oh will be participating as well.'
+summary: 'The 7th AIML@K Workshop happens, this time with DLMath again (and tries poster only)'
+abstract: |
+  AIML@K Workshop is a biannual workshop with the aim of fostering graduate student research presentation and discussion. Undergraduates, postdoctoral researchers and faculty members are also welcome to the workshop. In our seventh realization, [DLMath](https://dlmath-lab.github.io/index.html) appears again, and we test all-poster type workshop.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-27T10:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
-all_day: true
+date: '2025-09-12T10:13:30+09:00'
+date_end: '2025-09-12T10:16:00+09:00'
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-06-08T00:00:00Z'
+publishDate: '2025-08-15T00:00:00+09:00'
 
 authors: []
 tags: ['workshop']
@@ -30,9 +31,9 @@ tags: ['workshop']
 # Is this a featured talk? (true/false)
 featured: false
 
-# image:
-#   caption: 'Jaeheun describing how AIML@K team addressed type 4 task'
-#   focal_point: Right
+image:
+  caption: 'Original illustration by Sanga Yoon'
+  focal_point: Right
 
 url_code: ''
 url_pdf: ''
@@ -53,6 +54,9 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+
+{{< figure src="poster.jpg" caption="Workshop poster original illustration by Sanga Yoon" numbered="false" >}}
 
 <!-- 
 Slides can be added in a few ways:
