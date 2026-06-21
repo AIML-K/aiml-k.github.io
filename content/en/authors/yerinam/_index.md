@@ -18,12 +18,13 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: System Software Engineer at HP Printing Korea | Expert in Image Quality and Scan Algorithms | Electronics & Math Graduate
+bio: Nature does not rush, yet everything gets done.
 
 interests:
+  - Agentic AI
   - Large Language Model
-  - Question and Answering 
-  - Optical Character Recognition
+  - Machine Unlearning
+  - Diffusion Models
 
 education:
   courses:
@@ -62,6 +63,8 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-I'm Yeri Nam, a System Software Engineer at HP. After graduating from Ewha Womans University in 2019, I joined HP following an internship where I developed a Gradient Boost Decision Tree model to predict adoption speed based on animal profiles, including text and images. Since then, I've specialized in image quality evaluation and document processing algorithms for printer devices.
-Currently, I'm pursuing graduate studies as an M.S. student at Korea University. My research interests include embedding and reasoning in large language models. I'm fluent in both C and Python, and I thrive on solving complex problems through collaboration and customer-focused design.
-I've also led volunteer initiatives like Hour of Code, inspiring young students to explore coding. My international experience as an exchange student in California has broadened my perspective and strengthened my adaptability.
+My research interests include agentic AI, large language models, and machine unlearning. I am especially interested in unlearning in Stable Diffusion—developing methods to selectively forget specific concepts while maintaining model utility and generation quality.
+
+Before graduate school, I spent over six years as a System Software Engineer on HP's Imaging Team, specializing in image quality assessment, imaging pipeline optimization for scan applications, and on-device security solutions with OCR. This production experience—working with imaging pipelines and edge AI under real deployment constraints—now grounds both strands of my research: building trustworthy LLM-based agents and studying controllable behavior in generative image models such as Stable Diffusion.
+
+That same systems-oriented mindset extends to how I work day to day. Through hands-on experience automating repetitive workflows in industry settings, I have seen how much reliable tooling matters for productivity. I aim to develop flexible agentic tools that meaningfully support research and academic work—tools that are dependable in practice, not just promising in prototype.
