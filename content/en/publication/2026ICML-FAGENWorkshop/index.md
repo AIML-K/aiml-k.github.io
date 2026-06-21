@@ -3,11 +3,11 @@ title: "CyDRA: Diagnosis-Guided Zero-Shot Prompting for Text-to-Cypher Generatio
 authors:
 - dayeonshin
 - admin
-date: "2026-06-22T04:00:00Z"
+date: "2026-06-22T04:00:00+09:00"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-06-22T04:00:00Z"
+publishDate: "2026-06-22T04:00:00+09:00"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
