@@ -45,3 +45,7 @@ Beyond the research, what we’ll remember most is you — your kindness, your l
 You’ve left a mark not only through your work but through the relationships and trust you built here. 
 Thank you for being such a thoughtful teammate and a wonderful human being. 
 We’ll miss you deeply, and we’re all cheering you on as you move toward new adventures.
+
+----
+
+(Photograph by Hanyoung Kim.)
