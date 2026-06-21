@@ -1,8 +1,8 @@
 ---
-title: AIML@K Spring 2025 Workshop
+title: AIML@K Fall 2025 Workshop
 
-event: AIML@K Spring 2025 Workshop
-event_url: https://sites.google.com/view/aimlk-workshops/2025-spring
+event: AIML@K Fall 2025 Workshop
+event_url: https://sites.google.com/view/aimlk-workshops/2025-fall
 
 location: 6th Floor Lobby, Asan Science Building
 address:
