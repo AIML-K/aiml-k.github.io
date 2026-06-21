@@ -21,15 +21,15 @@ organizations:
 bio: Connecting artificial intelligence and mathematics, in both directions.
 
 interests:
-  - NLP & LLM
   - Agentic AI
+  - Trustworth AI
   - AI applications
 
 education:
   courses:
-    - course: 수학과 MDS 석사, 2026(expected)
+    - course: 수학과 MDS 석사
       institution: Korea University
-      year: 2026 (expected)
+      year: 2026
     - course: 환경학과 학사
       institution: Hankuk University of Foreign Studies
       year: 2021
@@ -73,10 +73,10 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-안녕하세요. 고려대학교 수학과 MDS 석사 과정에 재학중이며 인공지능 연구실에 소속되어 있는 신다연입니다. 
+안녕하세요. 고려대학교 수학과 Mathematical Data Science 트랙 석사과정에 재학 중이며 AIML@K에서 인공지능을 연구하고 있는 신다연입니다.
 
 <!-- 연구분야/주제 관심사 소개 -->
-수학을 활용해 AI 모델의 신뢰성을 높이고 Agent 아키텍처로 일의 효율을 높이는데 관심이 있습니다. 랭그래프 기반 수업 보조 자동화 챗봇을 개발한 경험이 있고, 공간 오디오 생성 연구를 진행했습니다.
+저는 수학적 사고와 체계적인 오류 분석을 바탕으로 AI 시스템의 신뢰성과 실용성을 높이는 데 관심이 있습니다. 그 중에서도 LLM의 Text-to-Cypher 생성 성능을 개선하는 diagnosis-guided prompting, LangGraph 기반 교육 지원 챗봇과 실시간 강의 퀴즈 에이전트, RAG 및 multi-agent workflow를 활용한 업무 자동화에 관심을 가지고 연구와 개발을 진행하고 있습니다. 또한 dynamic spatial audio generation 연구에도 참여했습니다.
 
 <!-- 그 외의 것/trivia -->
-한국외국어대학교 환경학과를 졸업후 수학학원강사로 2년 반을 근무했습니다. 그 후 수학과 AI에 대한 열정을 안고 고려대학과 수학과에 입학하게 되었고 다양한 도메인에 AI를 접목해 세상을 편리하게 만들고 싶습니다.
+한국외국어대학교에서 환경학을 전공한 뒤 약 2년 반 동안 수학 강사로 일했습니다. 그 경험을 통해 교육, 문제 해결, 그리고 사람의 일을 돕는 AI의 가능성에 더 큰 관심을 갖게 되었습니다. 앞으로 다양한 도메인의 문제를 수학적으로 이해하고 AI로 해결하는 과정을 통해 더 신뢰할 수 있고 실용적인 시스템을 만들고 싶습니다.

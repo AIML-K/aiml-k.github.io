@@ -21,14 +21,15 @@ organizations:
 bio: Connecting artificial intelligence and mathematics, in both directions.
 
 interests:
-  - NLP & LLM
-  - Mathematics
+  - Agentic AI
+  - Trustworth AI
+  - AI applications
 
 education:
   courses:
     - course: M.S. Student in Mathematical Data Science
       institution: Korea University
-      year: 2026 (expected)
+      year: 2026
     - course: B.A. in Environment
       institution: Hankuk University of Foreign Studies
       year: 2021
@@ -57,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: cv/CV_DayeonShin_20250721.pdf
+    link: cv/CV_DayeonShin_20260622.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'yeon_25@korea.ac.kr'
@@ -72,10 +73,10 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-My name is Dayeon Shin, and I am a master’s student in the Department of Mathematics (MDS) at Korea University and researching artificial intelligence at AIML@K.
+My name is Dayeon Shin, and I am a master's student in the Mathematical Data Science track in the Department of Mathematics at Korea University. I am a member of AIML@K, where I study artificial intelligence at the intersection of mathematics, language models, and agent systems.
 
 <!-- 연구분야/주제 관심사 소개 -->
-I'm interested in leveraging mathematics to enhance the reliability of AI models and agent architecture to improve work efficiency. I have experience developing a LangGraph-based automated teaching assistant chatbot and have conducted research on spatial audio generation.
+I am interested in improving the reliability and practical usefulness of AI systems through mathematical thinking, structured error analysis, and agentic architectures. My recent work includes diagnosis-guided prompting for reliable Text-to-Cypher generation, LangGraph-based instructional support chatbots and real-time lecture quiz agents, RAG and multi-agent workflows for enterprise automation, and research on dynamic spatial audio generation.
 
 <!-- 그 외의 것/trivia -->
-AAfter graduating from Hankuk University of Foreign Studies with a degree in Environmental Studies, I worked as a math instructor at a private academy for two and a half years. Then, driven by a passion for mathematics and AI, I enrolled in Korea University's Department of Mathematics. I hope to apply AI to various domains to make the world a better place.
+After earning a B.S. in Environmental Science from Hankuk University of Foreign Studies, I worked as a mathematics instructor for two and a half years. That experience strengthened my interest in education, problem-solving, and the role of AI in supporting human work. I hope to apply mathematics and AI across domains to build systems that are reliable, useful, and socially meaningful.
