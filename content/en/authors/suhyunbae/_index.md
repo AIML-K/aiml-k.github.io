@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Suhyun Bae
+type: landing
 
 # Full Name (for SEO)
 first_name: Suhyun
@@ -10,7 +11,7 @@ last_name: Bae
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. in Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +22,9 @@ organizations:
 bio: The cake is not a lie!
 
 interests:
-- LLM & NLP
-- Agentic AI
-- Model Architecture
+- Algebraic Representation Learning
+- Hallucination Mitigation & Detection
+- Trustworthy & Reliable AI
 
 
 education:
@@ -31,7 +32,7 @@ education:
     # - course: Ph.D. in Computer Science
     #   institution: Princeton University
     #   year: 2019
-    - course: M.S. in Mathematical Data Science
+    - course: M.S. in Mathematics(Mathematical Data Science)
       institution: Korea University
       year: 2026
     - course: B.S. in Mathematics
@@ -54,7 +55,7 @@ social:
     link: https://www.linkedin.com/in/suhyun-bae-869043286
   - icon: cv
     icon_pack: ai
-    link: cv/CV_SuhyunBae_20251224.pdf
+    link: cv/CV_SuhyunBae_20260623.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -75,39 +76,74 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Alumni
+
+
+sections:
+  - block: about.biography
+    id: about
+    content:
+      username: suhyunbae
+
+  - block: markdown
+    content:
+      title: Research Focus
+      # subtitle: What I am currently focusing on in my research
+      text: My ultimate goal is to research and develop next-generation AI models that are verifiable and reliable, fully grounded in mathematical rigor.
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+
+  - block: markdown
+    content:
+      title: Research Goal
+      # subtitle: What I aim to achieve with my research
+      text: My ultimate goal is to develop highly reliable and verifiable AI models built upon solid mathematical foundations.
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+
+  - block: experience
+    content:
+      title: Research Experience
+      # subtitle: The key research achievements and experiences
+      date_format: Jan 2006
+      items:
+        - title: 'Core AI R&D: Algebraic Number Theory for LLM Reasoning'
+          # company: University X
+          date_start: '2025-03-01'
+          date_end: ''
+          description: |
+            - **Phase 1 (2025.07 - 2025.12) | *Numbers Already Carry Their Own Embeddings***<br>Proposed a novel embedding mechanism leveraging the Adele Ring and $p$-adic algebraic structures to resolve the preservation loss of numerical semantics in conventional LLM tokenizers. This work was accepted at the NeurIPS 2025 Workshop MATHAI.
+            - **Phase 2 (2026.01 - 2026.05) | *Prime Fourier Embeddings: A Principled Basis for Modular Arithmetic***<br>Introduced the concept of Pontryagin Dual Space to construct a mapping pipeline that projects numbers onto $(\cos, \sin)$ on the complex plane, experimentally demonstrating its intrinsic efficiency in learning the Chinese Remainder Theorem (CRT). This work was accepted at the ICML 2026 Workshop AI4MATH.
+            - **Phase 3 (2026.05 - PRESENT)**<br>Currently developing a highly practical, production-ready embedding module that can be seamlessly integrated into arbitrary LLMs as a plug-in component.
+
+        - title: Internship at SK Magic
+          date_start: '2024-07-01'
+          date_end: '2025-01-01'
+          description: Served as a Data Scientist Intern within the AI Business Development Team at SK Magic. Spearheaded the R&D and design of a hybrid optimization algorithm for the optimal spatial placement of auxiliary air quality sensors paired with the autonomous driving air purifier (NAMUHX).
+
+        - title: KCC 2024 and Hallucination
+          date_start: '2024-03-01'
+          date_end: '2024-06-01'
+          description: Classified hallucination phenomena in Question-Answering (QA) generation tasks into five fine-grained taxonomies. Evaluated the capabilities and limitations of standard natural language metrics (BLEU, METEOR, ROUGE) in detecting specific types of hallucinations. This work was published at KCC 2024.
+
+        - title: AI Grand Challenge 2023
+          date_start: '2023-07-01'
+          date_end: '2023-12-01'
+          description: Built a robust synthetic dataset generation and refinement pipeline for multi-answer question answering tasks utilizing the OpenAI API (GPT-3.5), directly contributing to the lab consortium's final 7th place achievement.
+
+    design:
+      columns: '2'
+
 ---
-
 <!-- 짧은 자기소개 -->
-A researcher who connects the theoretical principles of mathematics with the practical applications of AI models.
+I am currently working as a Research Associate at the Artificial Intelligence and Mathematical Learning Lab (AIML@K), Department of Mathematics, Korea University.
+
 <!-- 연구분야/주제 관심사 소개 -->
-A researcher with a passion for using mathematics to enhance AI model's reasoning capabilities and reliability, while also exploring novel and efficient architectures.
+Believing that the ultimate paradigm of artificial intelligence will manifest as a fully converged system of robotics and AI—akin to Jarvis—I am profoundly interested in its foundational architectures, specifically Agentic AI and Large Action Models (LAM).
+
 <!-- 그 외의 것/trivia -->
-I often enjoy solving diverse algorithmic problems through coding challenges and find satisfaction in simplifying complex issues.
-
-### Research Experience
-
-- 2023.07 - 2023.12 | **AI Grand Challenge 2023**    
-  Utilized the openai-API with GPT-3.5 to generate and refine a dataset for fine-tuning a model on multi-answer questions, leading our team to a 7th place finish.
-
-- 2024.02 - 03 | **Practicing RAG**   
-  Researched Retrieval-Augmented Generation (RAG) and implemented a model for the DACON competition, "HansolDeco Wallpaper Q&A."
-
-- 2024.03 - 06 | **KCC 2024 and Hallucination**   
-  Classified hallucination types in QA tasks into five categories. My research, published at KCC 2024, identified that natural language evaluation metrics like BLEU, METEOR, and ROUGE have distinct strengths and weaknesses in detecting specific types of hallucinations.
-
-- 2024.07 - 2025.01 | **Internship at SK Magic**   
-  As a data scientist intern, I focused on product planning and development, researching on-device LLM ecosystems and data infrastructure for new products while developing corresponding algorithms.
-  
-- 2025.03 - PRESENT | **AI and Math**   
-  Currently designing methods for AI to understand and verify mathematical problems through formalized languages and algebraic structures.
-  
-
-### Research Focus
-
-My research centers on leveraging mathematical theory to enhance the reliability and reduce hallucination in AI models. I'm particularly focused on addressing the limitations of existing tokenizers' embedding spaces through an algebraic approach. Specifically, I am designing a novel numerical token embedding space that preserves algebraic meaning by utilizing algebraic structures such as the Adele ring. My goal is to fundamentally improve model architectures with mathematical rigor, enabling AI to reason more deeply and logically about data.
-
-
-### Research Goal
-
-My ultimate goal is to pioneer AI models capable of rigorous mathematical reasoning, which can fundamentally advance the field of artificial intelligence itself. While current LLMs demonstrate remarkable linguistic abilities, they often lack the foundational logic required for mathematical tasks. By implementing a new embedding space built on algebraic principles, I aim to create AI systems that move beyond mere pattern recognition and engage in logical, systematic thinking. This research is not just about solving math problems; it's about building a new class of AI that can perform verifiable and reliable reasoning. This will pave the way for highly trustworthy AI applications in critical domains, setting a new standard for how we design and evaluate intelligent systems.
+Outside the lab, I am discreetly conducting practical experiments on building automated AI-driven quantitative trading systems to generate passive income streams.

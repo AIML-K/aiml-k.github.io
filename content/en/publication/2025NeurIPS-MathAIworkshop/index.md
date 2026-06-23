@@ -37,8 +37,8 @@ links:
 #   url: https://arxiv.org/abs/2506.01994
 - name: arXiv
   url: https://arxiv.org/abs/2606.14108
-- name: Github
-  url: https://github.com/AIML-K/Adele/releases/tag/v0.1.0
+# - name: Github
+#   url: https://github.com/AIML-K/Adele/releases/tag/v0.1.0    # Temporary close. Come back with public github link
 - name: poster
   url: 'posters/NIPS2025_AOE_poster.pdf'
 
@@ -50,7 +50,7 @@ links:
 # url_source: '#'
 # url_video: '#'
 
-url_slides: 'uploads/files/2025/CAPSTONE2025-bae.pptx'
+url_slides: 'uploads/files/2025/CAPSTONE2025-bae.pdf'
 url_pdf: 'uploads/files/2025/NIPS2025-bae-lee.pdf'
 
 # Featured image
