@@ -119,14 +119,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Core AI R&D: Algebraic Number Theory for LLM Reasoning
+        - title: 'Core AI R&D: Algebraic Number Theory for LLM Reasoning'
           # company: University X
           # company_url: ''
           # company_logo: org-x
           # location: California
           date_start: '2025-03-01'
           date_end: ''
-          description: |2-
+          description: |
             - Phase 1 (2025.07 - 2025.12) | *Numbers Already Carry Their Own Embeddings*
             Adele Ring 및 p-adic 대수적 구조를 활용하여 기존 LLM 토크나이저의 숫자 의미 훼손 문제를 해결하는 신규 임베딩 제안. 이 연구는 NIPS 2025 Workshop MATHAI에 억셉되었습니다.
             - Phase 2 (2026.01 - 2026.05) | *Prime Fourier Embeddings: A Principled Basis for Modular Arithmetic*

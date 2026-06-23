@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Suhyun Bae
+type: landing
 
 # Full Name (for SEO)
 first_name: Suhyun
@@ -108,59 +109,33 @@ sections:
     content:
       title: Research Experience
       # subtitle: The key research achievements and experiences
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Core AI R&D: Algebraic Number Theory for LLM Reasoning
+        - title: 'Core AI R&D: Algebraic Number Theory for LLM Reasoning'
           # company: University X
-          # company_url: ''
-          # company_logo: org-x
-          # location: California
           date_start: '2025-03-01'
           date_end: ''
-          description: |2-
-            - Phase 1 (2025.07 - 2025.12) | *Numbers Already Carry Their Own Embeddings*
-            Proposed a novel embedding mechanism leveraging the Adele Ring and $p$-adic algebraic structures to resolve the preservation loss of numerical semantics in conventional LLM tokenizers. This work was accepted at the NeurIPS 2025 Workshop MATHAI.
-            - Phase 2 (2026.01 - 2026.05) | *Prime Fourier Embeddings: A Principled Basis for Modular Arithmetic*
-            Introduced the concept of Pontryagin Dual Space to construct a mapping pipeline that projects numbers onto (cos, sin) on the complex plane, experimentally demonstrating its intrinsic efficiency in learning the Chinese Remainder Theorem (CRT). This work was accepted at the ICML 2026 Workshop AI4MATH.
-            - Phase 3 (2026.05 - PRESENT) | 
-            Currently developing a highly practical, production-ready embedding module that can be seamlessly integrated into arbitrary LLMs as a plug-in component.
+          description: |
+            - **Phase 1 (2025.07 - 2025.12) | *Numbers Already Carry Their Own Embeddings***<br>Proposed a novel embedding mechanism leveraging the Adele Ring and $p$-adic algebraic structures to resolve the preservation loss of numerical semantics in conventional LLM tokenizers. This work was accepted at the NeurIPS 2025 Workshop MATHAI.
+            - **Phase 2 (2026.01 - 2026.05) | *Prime Fourier Embeddings: A Principled Basis for Modular Arithmetic***<br>Introduced the concept of Pontryagin Dual Space to construct a mapping pipeline that projects numbers onto $(\cos, \sin)$ on the complex plane, experimentally demonstrating its intrinsic efficiency in learning the Chinese Remainder Theorem (CRT). This work was accepted at the ICML 2026 Workshop AI4MATH.
+            - **Phase 3 (2026.05 - PRESENT)**<br>Currently developing a highly practical, production-ready embedding module that can be seamlessly integrated into arbitrary LLMs as a plug-in component.
 
         - title: Internship at SK Magic
-          # company: University X
-          # company_url: ''
-          # company_logo: org-x
-          # location: California
           date_start: '2024-07-01'
           date_end: '2025-01-01'
           description: Served as a Data Scientist Intern within the AI Business Development Team at SK Magic. Spearheaded the R&D and design of a hybrid optimization algorithm for the optimal spatial placement of auxiliary air quality sensors paired with the autonomous driving air purifier (NAMUHX).
 
         - title: KCC 2024 and Hallucination
-          # company: University X
-          # company_url: ''
-          # company_logo: org-x
-          # location: California
           date_start: '2024-03-01'
           date_end: '2024-06-01'
           description: Classified hallucination phenomena in Question-Answering (QA) generation tasks into five fine-grained taxonomies. Evaluated the capabilities and limitations of standard natural language metrics (BLEU, METEOR, ROUGE) in detecting specific types of hallucinations. This work was published at KCC 2024.
 
         - title: AI Grand Challenge 2023
-          # company: University X
-          # company_url: ''
-          # company_logo: org-x
-          # location: California
           date_start: '2023-07-01'
           date_end: '2023-12-01'
           description: Built a robust synthetic dataset generation and refinement pipeline for multi-answer question answering tasks utilizing the OpenAI API (GPT-3.5), directly contributing to the lab consortium's final 7th place achievement.
 
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 
 ---
