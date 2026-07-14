@@ -30,12 +30,12 @@ tags:
 - [AI4Math, Number Representation]
 
 links:
-# - name: PDF
-#   url: https://arxiv.org/pdf/2506.01994
+- name: PDF
+  url: 'papers/ICML2026-AI4MATH-workshop-paper.pdf'
 # - name: Github
 #   url: TODO
-# - name: arXiv
-#   url: https://arxiv.org/abs/2506.01994
+- name: arXiv
+  url: https://arxiv.org/abs/2506.01994
 - name: openreview
   url: https://openreview.net/forum?id=SmSv0S3bUW
 - name: poster
