@@ -38,6 +38,8 @@ links:
 #   url: https://arxiv.org/abs/2506.01994
 - name: openreview
   url: https://openreview.net/forum?id=SmSv0S3bUW
+- name: poster
+  url: 'posters/AAAI2025_ABC3_poster.pdf'
 
 
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
