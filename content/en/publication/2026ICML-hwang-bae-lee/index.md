@@ -35,7 +35,7 @@ links:
 # - name: Github
 #   url: TODO
 - name: arXiv
-  url: https://arxiv.org/abs/2506.01994
+  url: https://arxiv.org/abs/2606.23044
 - name: openreview
   url: https://openreview.net/forum?id=SmSv0S3bUW
 - name: poster
