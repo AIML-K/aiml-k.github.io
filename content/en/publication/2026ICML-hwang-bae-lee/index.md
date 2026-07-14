@@ -39,7 +39,7 @@ links:
 - name: openreview
   url: https://openreview.net/forum?id=SmSv0S3bUW
 - name: poster
-  url: 'posters/AAAI2025_ABC3_poster.pdf'
+  url: 'posters/ICML2026-AI4MATH-workshop-poster.pdf'
 
 
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
