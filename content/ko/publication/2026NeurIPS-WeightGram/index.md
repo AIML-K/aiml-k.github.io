@@ -12,11 +12,12 @@ date: "2026-05-07"
 # publishDate is intentionally unset until human release review.
 draft: true
 
-# Citation uses the verified arXiv preprint; conference proceedings remain unverified.
-publication_types: ["article"]
+# Publication type, following existing ICML conference pages.
+publication_types: ["paper-conference"]
 
-publication: "arXiv 프리프린트; NeurIPS 2026 공식 목록 수록"
-publication_short: "NeurIPS 2026 목록 / arXiv"
+# Publication name and optional abbreviated publication name.
+publication: "NeurIPS 2026"
+publication_short: "NeurIPS 2026"
 
 # Source-grounded abstract paraphrase; not a verbatim reproduction.
 abstract: |
@@ -32,6 +33,8 @@ tags:
 - "Neural Collapse"
 
 links:
+- name: PDF
+  url: https://arxiv.org/pdf/2605.06258
 - name: arXiv
   url: https://arxiv.org/abs/2605.06258
 - name: HTML
@@ -48,7 +51,3 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-## 공개 상태
-
-[NeurIPS 2026 공식 다운로드 목록](https://nips.cc/Downloads/2026)에 이 논문의 정확한 제목과 위 학회 페이지 링크가 실려 있습니다. 학회 트랙과 논문집 서지정보는 저자의 확인이 필요합니다. 이 페이지의 인용 정보는 arXiv 내보내기이며, 표시된 날짜는 arXiv 최초 제출일입니다.
