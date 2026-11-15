@@ -1,34 +1,126 @@
 ---
 title: '연구'
-summary: '수학을 통해 AI를 발전시키고, AI로 수학과 과학의 지평을 넓히는 연구'
+date: 2026-06-10
+type: landing
+
+sections:
+  # ---------- Intro ----------
+  - block: markdown
+    content:
+      title: 'AIML@K의 연구'
+      text: |
+        우리의 출발점은 단순하면서도 도전적입니다. AI 발전의 가장 깊은 바탕에는 수학이 있다는 것입니다. 
+        우리는 수학*으로* AI의 지평을 넓히고, 다시 AI를 활용하여 수학과 과학의 최전선을 확장합니다.
+
+        심층 신경망이 학습하는 이유에 관한 이론, 과학 방정식을 푸는 학습 가능한 연산자, 심층 생성 모델 분석 등 우리가 수행하는 모든 연구에는 이러한 양방향 교류가 흐르고 있습니다. 
+        아래의 연구 주제는 서로를 가르는 경계가 아닙니다. 대부분의 프로젝트는 여러 주제에 걸쳐 있습니다. 
+        각 주제에서는 자세한 설명과 관련 논문 등을 확인할 수 있습니다.
+    design:
+      columns: '1'
+      # A light tinted band to separate the intro from the cards.
+      # background:
+      #   color: '#f7f8fa'
+      spacing:
+        padding: ['40px', '0', '20px', '0']
+
+  # ---------- Research themes ----------
+  # NOTE: This is a hand-written grid of links so the page is guaranteed to
+  # build with no dependency on per-page images or tags. Once each subpage has
+  # a `featured` image, you can swap this for an auto-generated card grid:
+  
+  - block: collection
+    content:
+      title: 연구 주제
+      filters:
+        folders: [research]
+    design:
+      view: card
+      columns: '2'
+      spacing:
+        padding: ['10px', '0', '20px', '0']
+
+  # - block: markdown
+  #   content:
+  #     title: 'Research Themes'
+  #     text: |
+  #       #### [AI for Mathematics](./ai-for-math/)
+  #       Using AI to explore, conjecture, formalize, and assist mathematical
+  #       reasoning — from autoformalization to computational discovery.
+
+  #       #### [Mathematical Foundations of AI](./math-for-ai/)
+  #       The theory behind learning: optimization, generalization, neural
+  #       dynamics, and the phenomena (feature learning, neural collapse,
+  #       grokking) that explain how models behave.
+
+  #       #### [AI for Science and Engineering](./ai-for-science/)
+  #       Operator learning and scientific machine learning for PDEs, seismic and
+  #       ground-motion modeling, materials, batteries, and biomedical imaging.
+
+  #       #### [Language, Reasoning, and Knowledge](./language-reasoning/)
+  #       Language models and their limits: reasoning, retrieval, representation,
+  #       hallucination, and extrapolation.
+
+  #       #### [Applied AI Systems](./applied-ai/)
+  #       Turning research into practice — education tools, recommendation,
+  #       chatbots, and dependable ML systems.
+  #   design:
+  #     columns: '1'
+  #     spacing:
+  #       padding: ['10px', '0', '20px', '0']
+
+  # # ---------- Featured publications ----------
+  # # Mirrors the homepage "Select Publications" block. Shows items with
+  # # `featured: true` in their publication front matter.
+  # - block: collection
+  #   content:
+  #     title: Featured Publications
+  #     text: ''
+  #     count: 5
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       featured_only: true
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: publication
+  #   design:
+  #     columns: '1'
+  #     view: showcase
+  #     flip_alt_rows: true
+
+  # # ---------- Recent research activity ----------
+  # # Mirrors the logs page portfolio block. Pulls from the `log` folder and
+  # # offers tag filters that already exist in your logs taxonomy.
+  # - block: portfolio
+  #   id: research-activity
+  #   content:
+  #     title: Recent Research Activity
+  #     subtitle: 'From the AIML@K logs'
+  #     filters:
+  #       folders:
+  #         - log
+  #       tags: []
+  #       exclude_tags: []
+  #     sort_by: 'Date'
+  #     sort_ascending: false
+  #     default_button_index: 0
+  #     buttons:
+  #       - name: All
+  #         tag: '*'
+  #       - name: AI4Math
+  #         tag: AI4Math
+  #       - name: Math4AI
+  #         tag: Math4AI
+  #       - name: LM
+  #         tag: LanguageModel
+  #       - name: AI4Sci
+  #         tag: AI4Science
+  #       - name: Applied
+  #         tag: Application
+  #   design:
+  #     columns: '1'
+  #     view: compact
 ---
-
-## AIML@K의 연구
-
-AI의 발전에는 수학이 깊이 자리하고 있습니다. AIML@K는 수학을 통해 AI의 지평을 넓히고, AI를 활용해 수학과 과학의 발전을 모색합니다.
-
-이러한 양방향 교류는 심층 신경망이 학습하는 원리에 대한 이론, 과학 방정식을 다루는 연산자 학습, 심층 생성 모델 분석 등 여러 연구를 관통합니다. 아래 연구 분야는 서로 분리된 영역이 아니며, 많은 프로젝트가 여러 분야에 걸쳐 있습니다.
-
-## 연구 분야
-
-각 분야의 상세 설명과 관련 논문은 아래 링크에서 확인할 수 있습니다. **연결된 상세 페이지는 영어로 제공됩니다.**
-
-### [수학을 위한 AI](/research/ai-for-math/)
-
-AI를 활용해 수학적 구조를 탐색하고 형식화하며 추론하는 방법을 연구합니다. 수, 구조, 증명을 모델이 충실하게 다룰 수 있도록 표현하는 방법과 AI가 수학적 탐구를 도울 수 있는 범위 및 한계를 살펴봅니다.
-
-### [AI의 수학적 기초](/research/math-for-ai/)
-
-학습 시스템이 작동하는 원리를 수학적으로 이해하고자 합니다. 최적화와 학습 동역학, 일반화, 신경망의 구조적 가지치기, 특징 학습과 표현의 기하학적 구조를 연구합니다.
-
-### [과학과 공학을 위한 AI](/research/ai-for-science/)
-
-수학에 기반한 AI 방법을 과학과 공학의 문제에 적용합니다. 편미분방정식을 위한 연산자 학습부터 지진 및 지반 운동 모델링, 재료와 배터리 영상, 기구 설계, 생의학 영상까지 다양한 문제를 다룹니다.
-
-### [언어, 추론, 지식](/research/language-reasoning/)
-
-언어 모델의 내부 표현과 그것이 지식 검색, 추론, 자기 평가에 미치는 영향을 연구합니다. 환각의 탐지와 평가, 학습 분포를 벗어난 영역에서의 추론 능력, 더 나은 텍스트 표현과 검색 방법을 살펴봅니다.
-
-### [응용 AI 시스템](/research/applied-ai/)
-
-교육 지원, 추천, 순차적 의사결정 등 실제 문제에 AI 연구를 적용합니다. 데이터의 복잡성, 응답 지연, 신뢰성과 같은 현실적 제약 속에서 유용하고 유지보수 가능한 시스템을 연구하며, 그 과정에서 얻은 경험을 기초 연구에 반영합니다.
