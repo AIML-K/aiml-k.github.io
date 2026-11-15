@@ -19,6 +19,7 @@ date: 2026-06-19
 
 ## 대표 연구
 
+- [CyDRA: Diagnosis-Guided Zero-Shot Prompting for Text-to-Cypher Generation](/publication/2026icml-fagenworkshop/) — *ICML 2026 Workshop on Failure Modes in Agentic AI*
 - [Agent-based Instructional Support Chatbot](https://aiml-k.github.io/publication/2025kcc-shin-lee/) — *KCC 2025*
 - [Investigating the Limits of Graph Foundation Model in Real-World Travel Recommendation Systems](https://aiml-k.github.io/publication/2025pakdd-lee-lee-lee/) — *PAKDD 2025 GLFM Workshop*
 - [Online Learning with Regularized Knowledge Gradients](https://aiml-k.github.io/publication/10-1007-978-3-031-05936-0-26/) — *PAKDD 2022*

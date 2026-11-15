@@ -21,6 +21,7 @@ date: 2026-06-17
 
 ## 대표 연구
 
+- [CyDRA: Diagnosis-Guided Zero-Shot Prompting for Text-to-Cypher Generation](/publication/2026icml-fagenworkshop/) — *ICML 2026 Workshop on Failure Modes in Agentic AI*
 - [Pre-trained Language Models Return Distinguishable Probability Distributions to Unfaithfully Hallucinated Texts](https://aiml-k.github.io/publication/2024emnlp-cha-lee/) — *EMNLP 2024 Findings*
 - [SentenceLDA: Discriminative and Robust Document Representation with Sentence Level Topic Model](https://aiml-k.github.io/publication/cha-lee-2024-sentencelda/) — *EACL 2024*
 - [Evaluating Extrapolation Ability of Large Language Model in Chemical Domain](https://aiml-k.github.io/publication/2024acl-cha-lee/) — *ACL 2024 Workshop*
@@ -30,7 +31,7 @@ date: 2026-06-17
 
 ## 관련 자료
 
-- [LanguageModel](/tag/languagemodel/) 태그가 붙은 연구 기록
+- [LLM](/tag/llm/) · [Natural Language Processing](/tag/natural-language-processing/) · [Hallucination](/tag/hallucination/) 태그의 관련 연구 자료
 - 대규모 언어 모델과 추론에 관한 [행사](/event/)와 토론
 
 ## 연구진

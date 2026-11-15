@@ -36,7 +36,7 @@ This theme develops machine-learning methods — especially operator learning an
 
 ## 관련 자료
 
-- [AI4Science](/tag/ai4science/) 태그가 붙은 연구 기록
+- [Operator Learning](/tag/operator-learning/) · [Earthquake](/tag/earthquake/) · [Material Science](/tag/material-science/) 태그의 관련 연구 자료
 - [행사](/event/) 및 과학·공학 분야 파트너와의 협업
 
 ## 연구진

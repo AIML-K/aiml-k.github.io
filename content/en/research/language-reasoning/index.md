@@ -21,6 +21,7 @@ Bringing in reinforcement learning to control the behavior of LMs (akin to how h
 
 ## Representative Work
 
+- [CyDRA: Diagnosis-Guided Zero-Shot Prompting for Text-to-Cypher Generation](/publication/2026icml-fagenworkshop/) — *ICML 2026 Workshop on Failure Modes in Agentic AI*
 - [Pre-trained Language Models Return Distinguishable Probability Distributions to Unfaithfully Hallucinated Texts](https://aiml-k.github.io/publication/2024emnlp-cha-lee/) — *EMNLP 2024 Findings*
 - [SentenceLDA: Discriminative and Robust Document Representation with Sentence Level Topic Model](https://aiml-k.github.io/publication/cha-lee-2024-sentencelda/) — *EACL 2024*
 - [Evaluating Extrapolation Ability of Large Language Model in Chemical Domain](https://aiml-k.github.io/publication/2024acl-cha-lee/) — *ACL 2024 Workshop*
@@ -30,7 +31,7 @@ See all work on the [Publications](/publication/) page.
 
 ## Related
 
-- Logs tagged [LanguageModel](/tag/languagemodel/)
+- Related research tagged [LLM](/tag/llm/), [Natural Language Processing](/tag/natural-language-processing/), and [Hallucination](/tag/hallucination/)
 - [Events](/event/) and discussions on LLMs and reasoning
 
 ## People

@@ -36,7 +36,7 @@ See all work on the [Publications](/publication/) page.
 
 ## Related
 
-- Logs tagged [AI4Science](/tag/ai4science/)
+- Related research tagged [Operator Learning](/tag/operator-learning/), [Earthquake](/tag/earthquake/), and [Material Science](/tag/material-science/)
 - [Events](/event/) and collaborations with science and engineering partners
 
 ## People
