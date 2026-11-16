@@ -19,9 +19,9 @@ publication_types: ["paper-conference"]
 publication: "NeurIPS 2026"
 publication_short: "NeurIPS 2026"
 
-# Source-grounded abstract paraphrase; not a verbatim reproduction.
+# Original abstract supplied by the author.
 abstract: |
-  This study connects weight updates to feature evolution through the weight Gram matrix. It introduces the Feature Learning Equation, Virtual Covariance and Target Linearity to analyze how representations become more aligned with targets across training and network depth. Under its stated assumptions and experimental settings, the framework also examines links to Neural Collapse and linear interpolation in generative models.
+  Understanding how deep neural networks learn representations remains a central challenge in machine learning theory. In this work, we propose a feature-centric framework for analyzing neural network training by relating weight updates to feature evolution. We introduce a simple identity, the Feature Learning Equation, which identifies the weight Gram matrix as the key object capturing feature dynamics. This enables us to interpret gradient descent as implicitly inducing a hypothetical evolution of features, whose covariance structure, termed the Virtual Covariance, characterizes how representations evolve during training. Building on this perspective, we introduce Target Linearity, a measure quantifying the linear alignment between features and targets. By analyzing the training and layer-wise dynamics, we show that deep networks learn to sequentially transform representations toward target-linear structure. This linearization perspective provides a unified interpretation of several empirical phenomena, including Neural Collapse and linear interpolation in generative models.
 
 # Summary. An optional shortened abstract.
 summary: |
