@@ -21,7 +21,7 @@ publication_short: "NeurIPS 2026"
 
 # Source-grounded abstract paraphrase; not a verbatim reproduction.
 abstract: |
-  ASAP is a training-free method for reducing visual tokens. It models information flow through transformer layers as a lazy random walk and uses distance from an attention sink to group tokens, compressing redundant background information. The paper evaluates the method on image, video and vision-language tasks, reporting trade-offs between computational cost and task accuracy.
+  Vision Transformers (ViTs) face severe computational bottlenecks due to the quadratic complexity of self-attention at high resolutions. Existing token reduction methods rely on local metrics, such as single-layer attention scores, that are inherently vulnerable to the attention sink phenomenon, where uninformative tokens are paradoxically preserved over salient foreground objects. We propose ASAP (Attention Sink Anchored Pruning), a training-free framework that recasts this sink as a feature. Modeling ViT information flow as a Lazy Random Walk, ASAP identifies the sink as a dominant accumulator of probability mass. By computing the diffusion distance to the sink within the cumulative transition matrix, ASAP partitions tokens via Radial Diffusion Clustering and compresses background redundancy through Transition Weight Pooling in a single shot. Extensive experiments across image, video, and vision-language tasks demonstrate ASAP outperforms state-of-the-art methods, accelerating throughput by up to 48% while maintaining or even exceeding baseline accuracy.
 
 # Summary. An optional shortened abstract.
 summary: |
