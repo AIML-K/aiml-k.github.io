@@ -8,10 +8,6 @@ authors:
 # Date is the first verified arXiv submission, NOT a conference publication date.
 date: "2026-05-21"
 
-# Schedule page publish date (NOT publication's date).
-# publishDate is intentionally unset until human release review.
-draft: true
-
 # Publication type, following existing ICML conference pages.
 publication_types: ["paper-conference"]
 
